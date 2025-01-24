@@ -1,0 +1,31 @@
+services:
+  backend:
+    container_name: TP-backend
+    build: ./backend
+    restart: unless-stopped
+    environment:
+      - CI=${CI:-false}
+      - AMADEUS_CLIENT_ID=${AMADEUS_CLIENT_ID:-test_id}
+      - AMADEUS_CLIENT_SECRET=${AMADEUS_CLIENT_SECRET:-test_secret}
+      - DJANGO_SETTINGS_MODULE=${DJANGO_SETTINGS_MODULE:-backend.settings}
+    ports:
+      - "8061:8000"
+    volumes:
+      - ./backend:/app
+    command: >
+      sh -c "python manage.py makemigrations &&
+             python manage.py migrate &&
+             python manage.py runserver 0.0.0.0:8000"
+
+
+  frontend:
+    container_name: TP-frontend
+    build: ./frontend
+    restart: unless-stopped
+    ports:
+      - "8071:5173"
+    volumes:
+      - ./frontend:/app
+    command: >
+      sh -c "npm install &&
+             npm run dev -- --host"

@@ -1,0 +1,1625 @@
+{
+  "data": [
+    {
+      "chainCode": "TL",
+      "iataCode": "CHI",
+      "dupeId": 700013704,
+      "name": "TRAVELODGE HOTEL DOWNTOWN",
+      "hotelId": "TLCHI073",
+      "geoCode": {
+        "latitude": 41.8744,
+        "longitude": -87.6255
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.15,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:04"
+    },
+    {
+      "chainCode": "BR",
+      "iataCode": "CHI",
+      "dupeId": 700112652,
+      "name": "RENAISSANCE BLACKSTONE HOTEL",
+      "hotelId": "BRCHIRHB",
+      "geoCode": {
+        "latitude": 41.87357,
+        "longitude": -87.6242
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.22,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:09:39"
+    },
+    {
+      "chainCode": "HH",
+      "iataCode": "CHI",
+      "dupeId": 700008137,
+      "name": "HILTON CHICAGO",
+      "hotelId": "HHCHI720",
+      "geoCode": {
+        "latitude": 41.87277,
+        "longitude": -87.62438
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.31,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:44:00"
+    },
+    {
+      "chainCode": "NZ",
+      "iataCode": "CHI",
+      "dupeId": 700046197,
+      "name": "HOTEL BLAKE AN ASCEND HOTEL COLLECTION",
+      "hotelId": "NZCHI480",
+      "geoCode": {
+        "latitude": 41.87559,
+        "longitude": -87.62951
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.42,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:06:38"
+    },
+    {
+      "chainCode": "PW",
+      "iataCode": "CHI",
+      "dupeId": 700020015,
+      "name": "CHICAGO'S ESSEX INN",
+      "hotelId": "PWCHIEXI",
+      "geoCode": {
+        "latitude": 41.87157,
+        "longitude": -87.62475
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.44,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:31:09"
+    },
+    {
+      "chainCode": "WV",
+      "iataCode": "CHI",
+      "dupeId": 700112648,
+      "name": "THE STANDARD CLUB",
+      "hotelId": "WVCHI001",
+      "geoCode": {
+        "latitude": 41.87771,
+        "longitude": -87.62902
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.45,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:07:51"
+    },
+    {
+      "chainCode": "HH",
+      "iataCode": "CHI",
+      "dupeId": 700010809,
+      "name": "HILTON PALMER HOUSE",
+      "hotelId": "HHCHI721",
+      "geoCode": {
+        "latitude": 41.88066,
+        "longitude": -87.62685
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.6,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:44:47"
+    },
+    {
+      "chainCode": "HX",
+      "iataCode": "CHI",
+      "dupeId": 700106535,
+      "name": "HAMPTON INN CHICAGO ST CHARLES",
+      "hotelId": "HXCHI287",
+      "geoCode": {
+        "latitude": 41.88075,
+        "longitude": -87.62844
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.66,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:48:27"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "CHI",
+      "dupeId": 700065725,
+      "name": "THE SILVERSMITH HOTEL",
+      "hotelId": "YXCHID8E",
+      "geoCode": {
+        "latitude": 41.88159,
+        "longitude": -87.6262
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.68,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:44:01"
+    },
+    {
+      "chainCode": "BW",
+      "iataCode": "CHI",
+      "dupeId": 700005301,
+      "name": "BEST WESTERN GRANT PARK HOTEL",
+      "hotelId": "BWCHI120",
+      "geoCode": {
+        "latitude": 41.86916,
+        "longitude": -87.62462
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.71,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-05-01T20:10:29"
+    },
+    {
+      "chainCode": "MC",
+      "iataCode": "CHI",
+      "dupeId": 700152850,
+      "name": "JW MARRIOTT CHICAGO",
+      "hotelId": "MCCHIJWM",
+      "geoCode": {
+        "latitude": 41.87941,
+        "longitude": -87.63234
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.78,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-23T09:17:09"
+    },
+    {
+      "chainCode": "HY",
+      "iataCode": "CHI",
+      "dupeId": 501686638,
+      "name": "HYATT THE LOOP CHICAGO",
+      "hotelId": "HYCHIHLP",
+      "geoCode": {
+        "latitude": 41.88084,
+        "longitude": -87.63115
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.81,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:13:26"
+    },
+    {
+      "chainCode": "WH",
+      "iataCode": "CHI",
+      "dupeId": 700017959,
+      "name": "W HOTEL CHICAGO CITY CENTER",
+      "hotelId": "WHCHI509",
+      "geoCode": {
+        "latitude": 41.87939,
+        "longitude": -87.63297
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.82,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-09-30T06:07:27"
+    },
+    {
+      "chainCode": "OI",
+      "iataCode": "CHI",
+      "dupeId": 501911731,
+      "name": "SP SUITES MILLENNIUM PARK",
+      "hotelId": "OICHISPS",
+      "geoCode": {
+        "latitude": 41.88322,
+        "longitude": -87.62597
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.86,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-09-12T16:04:40"
+    },
+    {
+      "chainCode": "KC",
+      "iataCode": "CHI",
+      "dupeId": 700023360,
+      "name": "BURNHAM A KIMPTON HOTEL",
+      "hotelId": "KCCHIBUR",
+      "geoCode": {
+        "latitude": 41.88285,
+        "longitude": -87.62865
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 0.88,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:50"
+    },
+    {
+      "chainCode": "UZ",
+      "iataCode": "CHI",
+      "dupeId": 700174793,
+      "name": "EXECUSTAY AT MILLENNIUM PK PLZ",
+      "hotelId": "UZCHIEE1",
+      "geoCode": {
+        "latitude": 41.88496,
+        "longitude": -87.62415
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.04,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:14:39"
+    },
+    {
+      "chainCode": "JV",
+      "iataCode": "CHI",
+      "dupeId": 502185275,
+      "name": "TEST JV HOTEL",
+      "hotelId": "JVCHICHI",
+      "geoCode": {
+        "latitude": 41.88425,
+        "longitude": -87.63245
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.17,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:25:23"
+    },
+    {
+      "chainCode": "DT",
+      "iataCode": "ORD",
+      "dupeId": 700137530,
+      "name": "THE WIT A DOUBLETREE BY HILTON",
+      "hotelId": "DTORD312",
+      "geoCode": {
+        "latitude": 41.88604,
+        "longitude": -87.6276
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.19,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:07:02"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "CHI",
+      "dupeId": 700030222,
+      "name": "HARD ROCK HOTEL CHICAGO",
+      "hotelId": "YXCHIHRH",
+      "geoCode": {
+        "latitude": 41.88653,
+        "longitude": -87.62501
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.22,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:15:11"
+    },
+    {
+      "chainCode": "KC",
+      "iataCode": "CHI",
+      "dupeId": 700010276,
+      "name": "MONACO CHICAGO A KIMPTON HTL",
+      "hotelId": "KCCHIHMC",
+      "geoCode": {
+        "latitude": 41.88651,
+        "longitude": -87.62576
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.22,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:50"
+    },
+    {
+      "chainCode": "KC",
+      "iataCode": "CHI",
+      "dupeId": 700070455,
+      "name": "ALLEGRO CHICAGO A KIMPTON HTL",
+      "hotelId": "KCCHIHAC",
+      "geoCode": {
+        "latitude": 41.88449,
+        "longitude": -87.63306
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.22,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:34"
+    },
+    {
+      "chainCode": "FA",
+      "iataCode": "CHI",
+      "dupeId": 700013328,
+      "name": "FAIRMONT CHICAGO MILLENNIUM PARK",
+      "hotelId": "FACHI100",
+      "geoCode": {
+        "latitude": 41.88676,
+        "longitude": -87.62078
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.28,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:43:59"
+    },
+    {
+      "chainCode": "BR",
+      "iataCode": "CHI",
+      "dupeId": 700069546,
+      "name": "RENAISSANCE CHICAGO DOWNTOWN",
+      "hotelId": "BRCHISRB",
+      "geoCode": {
+        "latitude": 41.8868,
+        "longitude": -87.628
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.28,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-25T10:54:24"
+    },
+    {
+      "chainCode": "HI",
+      "iataCode": "CHI",
+      "dupeId": 700017136,
+      "name": "HOLIDAY INN HOTEL AND SUITES",
+      "hotelId": "HICHI160",
+      "geoCode": {
+        "latitude": 41.8744,
+        "longitude": -87.63997
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.29,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:44:00"
+    },
+    {
+      "chainCode": "CZ",
+      "iataCode": "CHI",
+      "dupeId": 700130710,
+      "name": "COMFORT SUITES CHICAGO",
+      "hotelId": "CZCHI352",
+      "geoCode": {
+        "latitude": 41.88749,
+        "longitude": -87.62506
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.32,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:41:06"
+    },
+    {
+      "chainCode": "YP",
+      "iataCode": "CHI",
+      "dupeId": 700136441,
+      "name": "RIVER HOTEL",
+      "hotelId": "YPCHIWRH",
+      "geoCode": {
+        "latitude": 41.88763,
+        "longitude": -87.62544
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.34,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:11:47"
+    },
+    {
+      "chainCode": "HY",
+      "iataCode": "CHI",
+      "dupeId": 700008485,
+      "name": "HYATT REGENCY CHICAGO",
+      "hotelId": "HYCHIHRC",
+      "geoCode": {
+        "latitude": 41.8877,
+        "longitude": -87.62286
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.35,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:48:27"
+    },
+    {
+      "chainCode": "IL",
+      "iataCode": "CHI",
+      "dupeId": 700174794,
+      "name": "IVY HOTEL",
+      "hotelId": "ILCHI233",
+      "geoCode": {
+        "latitude": 41.88762,
+        "longitude": -87.62123
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.36,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:23:17"
+    },
+    {
+      "chainCode": "IL",
+      "iataCode": "CHI",
+      "dupeId": 700174791,
+      "name": "CORPORATE SUITES NE",
+      "hotelId": "ILCHI154",
+      "geoCode": {
+        "latitude": 41.88762,
+        "longitude": -87.62123
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.36,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:16:13"
+    },
+    {
+      "chainCode": "UZ",
+      "iataCode": "CHI",
+      "dupeId": 700164196,
+      "name": "OAKWOOD AT 200 SQUARED",
+      "hotelId": "UZCHI210",
+      "geoCode": {
+        "latitude": 41.88602,
+        "longitude": -87.634
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.4,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:25:55"
+    },
+    {
+      "chainCode": "SL",
+      "iataCode": "CHI",
+      "dupeId": 700013158,
+      "name": "SWISSOTEL CHICAGO",
+      "hotelId": "SLCHISLO",
+      "geoCode": {
+        "latitude": 41.88794,
+        "longitude": -87.6204
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.41,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-04-27T09:02:05"
+    },
+    {
+      "chainCode": "WI",
+      "iataCode": "CHI",
+      "dupeId": 700050870,
+      "name": "WESTIN CHICAGO RIVER NORTH",
+      "hotelId": "WICHIRIV",
+      "geoCode": {
+        "latitude": 41.88807,
+        "longitude": -87.62953
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.45,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-23T12:38:34"
+    },
+    {
+      "chainCode": "LO",
+      "iataCode": "CHI",
+      "dupeId": 700189380,
+      "name": "THE LANGHAM, CHICAGO",
+      "hotelId": "LOCHILAN",
+      "geoCode": {
+        "latitude": 41.88863,
+        "longitude": -87.62758
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.47,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:31:25"
+    },
+    {
+      "chainCode": "IL",
+      "iataCode": "ORD",
+      "dupeId": 700066715,
+      "name": "CORPORATE SUITES NE",
+      "hotelId": "ILORD457",
+      "geoCode": {
+        "latitude": 41.88186,
+        "longitude": -87.64154
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.58,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:55:32"
+    },
+    {
+      "chainCode": "IL",
+      "iataCode": "ORF",
+      "dupeId": 700185897,
+      "name": "BLUE MARLIN INN AND SUITES",
+      "hotelId": "ILORF183",
+      "geoCode": {
+        "latitude": 41.88186,
+        "longitude": -87.64154
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.58,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:29:50"
+    },
+    {
+      "chainCode": "SI",
+      "iataCode": "CHI",
+      "dupeId": 700012592,
+      "name": "SHERATON CHICAGO HOTEL AND TOWERS",
+      "hotelId": "SICHI196",
+      "geoCode": {
+        "latitude": 41.88938,
+        "longitude": -87.61965
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.58,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-11-11T06:02:19"
+    },
+    {
+      "chainCode": "RC",
+      "iataCode": "CHI",
+      "dupeId": 700115713,
+      "name": "RESIDENCE INN MARRIOTT RIVER N",
+      "hotelId": "RCCHIRNR",
+      "geoCode": {
+        "latitude": 41.88956,
+        "longitude": -87.62957
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.61,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-23T19:24:20"
+    },
+    {
+      "chainCode": "XV",
+      "iataCode": "CHI",
+      "dupeId": 700110435,
+      "name": "SPRINGHILL STES DWTN MARRIOTT",
+      "hotelId": "XVCHINRS",
+      "geoCode": {
+        "latitude": 41.88956,
+        "longitude": -87.62957
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.61,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-25T07:03:34"
+    },
+    {
+      "chainCode": "LZ",
+      "iataCode": "CHI",
+      "dupeId": 501674747,
+      "name": "LOEWS CHICAGO HOTEL",
+      "hotelId": "LZCHILCL",
+      "geoCode": {
+        "latitude": 41.88964,
+        "longitude": -87.61964
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.61,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:12:11"
+    },
+    {
+      "chainCode": "CY",
+      "iataCode": "CHI",
+      "dupeId": 700039902,
+      "name": "COURTYARD RIVER NORTH MARRIOTT",
+      "hotelId": "CYCHIWBC",
+      "geoCode": {
+        "latitude": 41.89031,
+        "longitude": -87.62712
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.65,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-11-11T06:04:30"
+    },
+    {
+      "chainCode": "HX",
+      "iataCode": "ORD",
+      "dupeId": 700035529,
+      "name": "HAMPTON INN STES CHICAGO DWTN",
+      "hotelId": "HXORDGU6",
+      "geoCode": {
+        "latitude": 41.89076,
+        "longitude": -87.62858
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.72,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:56:19"
+    },
+    {
+      "chainCode": "KC",
+      "iataCode": "CHI",
+      "dupeId": 700140741,
+      "name": "PALOMAR CHICAGO KIMPTON",
+      "hotelId": "KCCHI703",
+      "geoCode": {
+        "latitude": 41.891,
+        "longitude": -87.62803
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.74,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:13:35"
+    },
+    {
+      "chainCode": "FN",
+      "iataCode": "CHI",
+      "dupeId": 700190135,
+      "name": "FAIRFIELD INN N STES MARRIOTT",
+      "hotelId": "FNCHIFTF",
+      "geoCode": {
+        "latitude": 41.89088,
+        "longitude": -87.63016
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.77,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-24T03:32:30"
+    },
+    {
+      "chainCode": "IC",
+      "iataCode": "CHI",
+      "dupeId": 700008680,
+      "name": "INTERCONTINENTAL CHI MAG MILE",
+      "hotelId": "ICCHIICA",
+      "geoCode": {
+        "latitude": 41.89148,
+        "longitude": -87.62401
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.77,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-05-30T09:58:16"
+    },
+    {
+      "chainCode": "HY",
+      "iataCode": "CHI",
+      "dupeId": 700190136,
+      "name": "HYATT PLACE CHICAGO RIVER NORTH",
+      "hotelId": "HYCHICHI",
+      "geoCode": {
+        "latitude": 41.89088,
+        "longitude": -87.63028
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.77,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:24:04"
+    },
+    {
+      "chainCode": "HG",
+      "iataCode": "CHI",
+      "dupeId": 700035530,
+      "name": "HOMEWOOD STES CHI DOWNTOWN",
+      "hotelId": "HGCHI40E",
+      "geoCode": {
+        "latitude": 41.89166,
+        "longitude": -87.62668
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.8,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:43:59"
+    },
+    {
+      "chainCode": "MC",
+      "iataCode": "CHI",
+      "dupeId": 700030356,
+      "name": "MARRIOTT DWTN MAGNIFICENT MILE",
+      "hotelId": "MCCHIDTM",
+      "geoCode": {
+        "latitude": 41.89183,
+        "longitude": -87.62413
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.81,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-08-05T06:06:14"
+    },
+    {
+      "chainCode": "AL",
+      "iataCode": "CHI",
+      "dupeId": 700189315,
+      "name": "ALOFT CHICAGO CITY CENTER",
+      "hotelId": "ALCHI370",
+      "geoCode": {
+        "latitude": 41.89138,
+        "longitude": -87.63081
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.83,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-08-26T06:02:53"
+    },
+    {
+      "chainCode": "IL",
+      "iataCode": "CHI",
+      "dupeId": 700174790,
+      "name": "CHICAGO PREMIER SUI",
+      "hotelId": "ILCHI545",
+      "geoCode": {
+        "latitude": 41.8919,
+        "longitude": -87.62959
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.86,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:44:31"
+    },
+    {
+      "chainCode": "NZ",
+      "iataCode": "CHI",
+      "dupeId": 700040661,
+      "name": "INN OF CHICAGO",
+      "hotelId": "NZCHI383",
+      "geoCode": {
+        "latitude": 41.89278,
+        "longitude": -87.623
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.92,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:15:25"
+    },
+    {
+      "chainCode": "CN",
+      "iataCode": "ORD",
+      "dupeId": 700018847,
+      "name": "CONRAD CHICAGO",
+      "hotelId": "CNORD304",
+      "geoCode": {
+        "latitude": 41.89247,
+        "longitude": -87.61896
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.93,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:10:26"
+    },
+    {
+      "chainCode": "CP",
+      "iataCode": "CHI",
+      "dupeId": 700052492,
+      "name": "CROWNE PLAZA METRO DOWNTOWN",
+      "hotelId": "CPCHIE3F",
+      "geoCode": {
+        "latitude": 41.88179,
+        "longitude": -87.64672
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.97,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:44:15"
+    },
+    {
+      "chainCode": "CY",
+      "iataCode": "CHI",
+      "dupeId": 700100828,
+      "name": "COURTYARD MARRIOTT MAG MILE",
+      "hotelId": "CYCHIMMC",
+      "geoCode": {
+        "latitude": 41.89335,
+        "longitude": -87.62344
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.98,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-03-25T06:09:38"
+    },
+    {
+      "chainCode": "ES",
+      "iataCode": "CHI",
+      "dupeId": 700035528,
+      "name": "EMBASSY SUITES CHICAGO DOWNTOWN",
+      "hotelId": "ESCHI07C",
+      "geoCode": {
+        "latitude": 41.89316,
+        "longitude": -87.62838
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.98,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:02"
+    },
+    {
+      "chainCode": "DT",
+      "iataCode": "CHI",
+      "dupeId": 700008247,
+      "name": "DBLTREE CHICAGO MAG MILE",
+      "hotelId": "DTCHI0C2",
+      "geoCode": {
+        "latitude": 41.893,
+        "longitude": -87.61896
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.99,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:00"
+    },
+    {
+      "chainCode": "IQ",
+      "iataCode": "ORD",
+      "dupeId": 700151540,
+      "name": "OHIO HOUSE MOTEL",
+      "hotelId": "IQORDUSO",
+      "geoCode": {
+        "latitude": 41.89244,
+        "longitude": -87.63262
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.99,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:12:33"
+    },
+    {
+      "chainCode": "RF",
+      "iataCode": "CHI",
+      "dupeId": 700010347,
+      "name": "RED ROOF CHICAGO DOWNTOWN",
+      "hotelId": "RFCHI281",
+      "geoCode": {
+        "latitude": 41.89349,
+        "longitude": -87.62292
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 1.99,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:51"
+    },
+    {
+      "chainCode": "OM",
+      "iataCode": "CHI",
+      "dupeId": 700110090,
+      "name": "OMNI CHICAGO HOTEL",
+      "hotelId": "OMCHIDTN",
+      "geoCode": {
+        "latitude": 41.89468,
+        "longitude": -87.62486
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.12,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:50"
+    },
+    {
+      "chainCode": "FN",
+      "iataCode": "CHI",
+      "dupeId": 700066627,
+      "name": "FAIRFIELD INN N STES MARRIOTT",
+      "hotelId": "FNCHIFDF",
+      "geoCode": {
+        "latitude": 41.89333,
+        "longitude": -87.63456
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.14,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-24T08:50:09"
+    },
+    {
+      "chainCode": "HG",
+      "iataCode": "CHI",
+      "dupeId": 501456729,
+      "name": "HOMEWOOD SUITES MAG MILE DWTWN CHICAGO",
+      "hotelId": "HGCHI467",
+      "geoCode": {
+        "latitude": 41.895,
+        "longitude": -87.6237
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.16,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:09:18"
+    },
+    {
+      "chainCode": "WH",
+      "iataCode": "CHI",
+      "dupeId": 700014176,
+      "name": "W HOTEL CHICAGO LAKESHORE",
+      "hotelId": "WHCHI005",
+      "geoCode": {
+        "latitude": 41.89387,
+        "longitude": -87.61558
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.16,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-01-08T07:14:03"
+    },
+    {
+      "chainCode": "WK",
+      "iataCode": "CHI",
+      "dupeId": 700013263,
+      "name": "WARWICK ALLERTON HOTEL CHICAGO",
+      "hotelId": "WKCHIEBB",
+      "geoCode": {
+        "latitude": 41.89508,
+        "longitude": -87.62418
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.17,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:08:57"
+    },
+    {
+      "chainCode": "HX",
+      "iataCode": "CHI",
+      "dupeId": 700037271,
+      "name": "HAMPTON MAG MILE DWTWN CHICAGO",
+      "hotelId": "HXCHI742",
+      "geoCode": {
+        "latitude": 41.89524,
+        "longitude": -87.62321
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.19,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:11:06"
+    },
+    {
+      "chainCode": "WV",
+      "iataCode": "CHI",
+      "dupeId": 700190139,
+      "name": "THE GODFREY HOTEL CHICAGO",
+      "hotelId": "WVCHI372",
+      "geoCode": {
+        "latitude": 41.89458,
+        "longitude": -87.63226
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.21,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:26:58"
+    },
+    {
+      "chainCode": "WW",
+      "iataCode": "CHI",
+      "dupeId": 700043033,
+      "name": "MILENORTH, A CHICAGO HOTEL",
+      "hotelId": "WWCHI100",
+      "geoCode": {
+        "latitude": 41.89608,
+        "longitude": -87.62262
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.28,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:29:20"
+    },
+    {
+      "chainCode": "HY",
+      "iataCode": "CHI",
+      "dupeId": 700010938,
+      "name": "PARK HYATT CHICAGO",
+      "hotelId": "HYCHIHPK",
+      "geoCode": {
+        "latitude": 41.8971,
+        "longitude": -87.62527
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.39,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:47:56"
+    },
+    {
+      "chainCode": "FS",
+      "iataCode": "CHI",
+      "dupeId": 700013494,
+      "name": "RITZ-CARLTON A FOUR SEASONS HOTEL",
+      "hotelId": "FSCHI504",
+      "geoCode": {
+        "latitude": 41.89759,
+        "longitude": -87.62331
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.45,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:44:46"
+    },
+    {
+      "chainCode": "GX",
+      "iataCode": "CHI",
+      "dupeId": 700040667,
+      "name": "TREMONT CHICAGO HOTEL MAG MILE",
+      "hotelId": "GXCHI510",
+      "geoCode": {
+        "latitude": 41.89853,
+        "longitude": -87.62598
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.55,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:43:59"
+    },
+    {
+      "chainCode": "HY",
+      "iataCode": "CHI",
+      "dupeId": 700024884,
+      "name": "HYATT REGENCY MCCORMICK PLACE",
+      "hotelId": "HYCHIHMC",
+      "geoCode": {
+        "latitude": 41.85228,
+        "longitude": -87.61896
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.63,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:48:12"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "CHI",
+      "dupeId": 700043250,
+      "name": "WHITEHALL HOTEL CHICAGO",
+      "hotelId": "YXCHIWHI",
+      "geoCode": {
+        "latitude": 41.8992,
+        "longitude": -87.62599
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.63,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:08:07"
+    },
+    {
+      "chainCode": "FS",
+      "iataCode": "CHI",
+      "dupeId": 700007491,
+      "name": "FOUR SEASONS CHICAGO",
+      "hotelId": "FSCHI525",
+      "geoCode": {
+        "latitude": 41.89933,
+        "longitude": -87.62546
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.64,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:43:59"
+    },
+    {
+      "chainCode": "HH",
+      "iataCode": "CHI",
+      "dupeId": 700067024,
+      "name": "HILTON CHICAGO MAG MILE SUITES",
+      "hotelId": "HHCHI021",
+      "geoCode": {
+        "latitude": 41.89929,
+        "longitude": -87.62194
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.64,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:44:00"
+    },
+    {
+      "chainCode": "WI",
+      "iataCode": "CHI",
+      "dupeId": 700031488,
+      "name": "WESTIN MICHIGAN AVENUE CHICAGO",
+      "hotelId": "WICHICON",
+      "geoCode": {
+        "latitude": 41.89947,
+        "longitude": -87.62413
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.66,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-11-04T06:00:58"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "CHI",
+      "dupeId": 700131111,
+      "name": "DEWITT PLACE",
+      "hotelId": "YXCHIDWP",
+      "geoCode": {
+        "latitude": 41.89929,
+        "longitude": -87.6202
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.66,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:16:14"
+    },
+    {
+      "chainCode": "PH",
+      "iataCode": "CHI",
+      "dupeId": 700070207,
+      "name": "THE TALBOTT HOTEL CHICAGO",
+      "hotelId": "PHCHITTH",
+      "geoCode": {
+        "latitude": 41.89941,
+        "longitude": -87.6275
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.66,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:05:12"
+    },
+    {
+      "chainCode": "MU",
+      "iataCode": "CHI",
+      "dupeId": 700069100,
+      "name": "MILLENNIUM KNICKERBOCKER HOTEL",
+      "hotelId": "MUCHIKNI",
+      "geoCode": {
+        "latitude": 41.89991,
+        "longitude": -87.62319
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.71,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:35"
+    },
+    {
+      "chainCode": "RC",
+      "iataCode": "CHI",
+      "dupeId": 700115712,
+      "name": "RESIDENCE INN MARRIOTT DWTN",
+      "hotelId": "RCCHIRDR",
+      "geoCode": {
+        "latitude": 41.9,
+        "longitude": -87.62183
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.72,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:35"
+    },
+    {
+      "chainCode": "WA",
+      "iataCode": "CHI",
+      "dupeId": 700145573,
+      "name": "WALDORF ASTORIA CHICAGO",
+      "hotelId": "WACHI646",
+      "geoCode": {
+        "latitude": 41.9001,
+        "longitude": -87.62791
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.74,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:52:40"
+    },
+    {
+      "chainCode": "HY",
+      "iataCode": "CHI",
+      "dupeId": 502346736,
+      "name": "THOMPSON CHICAGO BY HYATT",
+      "hotelId": "HYCHISUT",
+      "geoCode": {
+        "latitude": 41.90135,
+        "longitude": -87.62745
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.88,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-05-09T09:00:25"
+    },
+    {
+      "chainCode": "TM",
+      "iataCode": "CHI",
+      "dupeId": 700071280,
+      "name": "THOMPSON CHICAGO",
+      "hotelId": "TMCHISUT",
+      "geoCode": {
+        "latitude": 41.90153,
+        "longitude": -87.62765
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 2.9,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:36:09"
+    },
+    {
+      "chainCode": "IQ",
+      "iataCode": "CHI",
+      "dupeId": 700156744,
+      "name": "CHICAGO SOUTH LOOP HOTEL",
+      "hotelId": "IQCHI788",
+      "geoCode": {
+        "latitude": 41.84558,
+        "longitude": -87.62719
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 3.34,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:20:08"
+    },
+    {
+      "chainCode": "IS",
+      "iataCode": "CHI",
+      "dupeId": 700010664,
+      "name": "PUBLIC CHICAGO",
+      "hotelId": "ISCHIAEH",
+      "geoCode": {
+        "latitude": 41.90627,
+        "longitude": -87.62838
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 3.43,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:19:36"
+    },
+    {
+      "chainCode": "HI",
+      "iataCode": "ORD",
+      "dupeId": 501447997,
+      "name": "HOLIDAY INN EXP ROSELLE",
+      "hotelId": "HIORDD81",
+      "geoCode": {
+        "latitude": 41.88542,
+        "longitude": -87.66398
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 3.45,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:18:49"
+    },
+    {
+      "chainCode": "MC",
+      "iataCode": "CHI",
+      "dupeId": 700068899,
+      "name": "MARRIOTT MEDICAL DISTRICT",
+      "hotelId": "MCCHIDMM",
+      "geoCode": {
+        "latitude": 41.87363,
+        "longitude": -87.66625
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 3.47,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:45:35"
+    },
+    {
+      "chainCode": "JV",
+      "iataCode": "CHI",
+      "dupeId": 700156743,
+      "name": "HOTEL LINCOLN",
+      "hotelId": "JVCHI102",
+      "geoCode": {
+        "latitude": 41.91523,
+        "longitude": -87.63447
+      },
+      "address": {
+        "countryCode": "US"
+      },
+      "distance": {
+        "value": 4.49,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:52:55"
+    }
+  ],
+  "meta": {
+    "count": 85,
+    "links": {
+      "self": "https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-geocode?latitude=41.8755616&longitude=-87.6244212&radius=5"
+    }
+  }
+}

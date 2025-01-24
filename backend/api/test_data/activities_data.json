@@ -1,0 +1,2538 @@
+{
+    "data": [
+    {
+      "type": "activity",
+      "id": "6458191",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458191",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Stanley Park",
+      "shortDescription": "Stanley Park is Vancouver's largest and oldest park, offering stunning views, diverse wildlife, hiking trails, and attractions like the Aquarium. It's a must-visit for nature lovers and outdoor enthusiasts.",
+      "description": "This treasure, lush peninsula park of giant trees, set on almost 1,000 acres in central Vancouver is the city’s first and biggest park. The perfect place to relax by taking a bike ride on 8.8 kilometers of the seawall along English Bay, hiking in its 27 kilometers of trails through the rainforest beckon, or for those who prefer more leisurely activities, this spot is a great stop to enjoy wildlife by observing hundreds of species of birds that call the park home or taking a walk in the Lost Lagoon as entering the park from Georgia Street.\n\nStanley Park offers many things to do, as visitors can spend a full day exploring attractions ranging from the totem poles at Brockton Point to the west coast sea life at the Vancouver Aquarium. \n\nVisitors will be amazed strolling through the spectacular park views and its gardens and shrubs that burst into a rainbow of beautiful colors in spring, and during summer take a splash in the outdoor pool, known as Second Beach, that operates right at the edge of the ocean.\n\nFor more information consult its official website.",
+      "geoCode": {
+        "latitude": 49.3017049,
+        "longitude": -123.1417003
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/stanley_park.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458192",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458192",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Museum of Vancouver",
+      "description": "Showcasing the history of the city, the Museum of Vancouver is part of a trio of museums located on the waterfront of Vanier Park and an award-winning civic history museum for its outstanding attraction of educational historical displays and stories from the past.\n\nWhen steeping out of the museum, visitors can expect to leave with a little bit more knowledge of the city and the communities that keep it alive, as its exhibitions showcase Indigenous artifacts and vintage home appliances like 1950s TVs and laundry machines, life-like mannequins in period clothing. \n\nThere are also displays about Vancouver’s history from the early days to the war years and up until the near present day, a collection of old signs from when Vancouver had one of the highest concentrations of neon advertising in North America, a room with videos about historical events on giant screens, and much more.\n\nVisit this museum that connects Vancouverites to each other and the city to the world. \n\nFor more information on schedules and prices, consult its official website.",
+      "geoCode": {
+        "latitude": 49.27638349999999,
+        "longitude": -123.1445046
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/museum_of_vancouver.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458194",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458194",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Science World",
+      "shortDescription": "Discover the wonders of science and technology at Science World in Vancouver. Explore interactive exhibits, IMAX films, and the iconic geodesic dome.",
+      "description": "Ignite your curiosity and discover the wonders of science and technology at Science World, a futuristic sphere-like building and home to the kid-friendly exploration center that explains phenomena through hands-on exhibits and demonstrations, located just minutes from downtown at Main Street.\n\nAs a great place for kids to have fun, learn and explore science-related subjects and activities, Science World offers its visitors themes that include water, air, motion, and invention, a theater on-site, as well as a massive IMAX screen, and the iconic geodesic dome, an unmistakable waterfront landmark in Vancouver originally built for the World Fair Expo 86.\n\nVisit Science World, and immerse yourself in interactive indoor and outdoor exhibits, inspirational feature exhibitions, and jaw-dropping live science demonstrations.\n\nFor more information on schedules and prices, consult its official website.",
+      "geoCode": {
+        "latitude": 49.273376,
+        "longitude": -123.103834
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/science_world.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458210",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458210",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Charlotte Day Wilson",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_152477645.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458230",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458230",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Jeff Lynne's ELO",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_49.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458231",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458231",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Sum 41",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_62.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458232",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458232",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Kid Cudi and Pusha T",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/457px-kid_cudi_2010_2_crop_.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458250",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458250",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Chameleons",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/cheering-crowd-concert.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458251",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458251",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Ora Cogan",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_19.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458252",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458252",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Kristina Kuzmic",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1152782045.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458262",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458262",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Marcus King",
+      "geoCode": {
+        "latitude": 49.2800806,
+        "longitude": -123.1204164
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_583121836.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458264",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458264",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Waxahatchee and Woods",
+      "geoCode": {
+        "latitude": 49.2800806,
+        "longitude": -123.1204164
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_66.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458272",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458272",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Ziggy Alberts",
+      "geoCode": {
+        "latitude": 49.2801742,
+        "longitude": -123.1166656
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/protomartyr_27685831160.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458273",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458273",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Jann Arden and Rick Mercer",
+      "geoCode": {
+        "latitude": 49.2801742,
+        "longitude": -123.1166656
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1899621607_zi5zxBL.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458282",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458282",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "DUETS",
+      "description": "Paul Kyle Gallery is proud to present “Duets”, an exhibition of new works from celebrated photographer James O’Mara and the launch of his newly published book of the same title.\n\n\"Duets\" extends beyond mere diptychs, representing a lifetime of visual diaries that have been revisited, reinvented, and reborn. O’Mara’s “Duets” are not just photographs, but rather graphic conversations between times, places, societies. With each pair, he places value on creating compositions that revel in the dialogue of texture, line, and form. This exhibition invites viewers to appreciate the absurd and the orderly, the organic and the constructed, all coming together in a harmonious visual duet. The integration of unrelated images echoes the essence of Rauschenberg's Combine works and his ROCI project, celebrating the unity and dialogue between diverse cultures and people. The creation of “Duets” is a delicate balance of an aesthetic decision. By carefully selecting and combining images, O’Mara emphasizes the importance of difference and context. The resulting pieces are stories told in tandem—a tree's bark mirrored in the stripes of a regal attire, the geometric interplay of concrete architecture with the minimalist purity of white space, and the overlay of vibrant human features with urban decay. O'Mara's \"Duets\" captures the synchronicity of unrelated moments, merging them into a single narrative frame that invites the viewer into a deeper contemplation of space, time, and relationship. Through his lens, the mundane is re-envisioned, granting audiences a transcendent experience that surpasses the confines of conventional photography. This exhibition is a landmark in O'Mara's accomplished career, and a celebration of the essence of life, captured through the lens of a photographer with the soul of a poet. With \"Duets,\" O'Mara crafts a visual lexicon that narrates stories beyond the captured moment, and it invites us to reflect on the interconnectivity of our global community, a poignant reminder of our shared humanity in times where experiences are universally accessible yet deeply personal.\n\nABOUT JAMES O’MARA\n\nJames O’Mara developed his career in the documentary film, editorial and commercial fields, working extensively in fashion, music, portraiture, wine, dance, and travel, with a diverse spectrum of high-profile clients, frequently featured in Rolling Stone, Vogue, the New York Times, GQ, Vanity Fair, and Mojo. His work is consistently recognized and awarded and appears in global publications and advertising campaigns. His photography and graphic design are recognized by the New York Art Director’s, Communication Arts, the Grammy’s, Applied Arts and Graphis. As a photographic artist, he exhibits in Canada, UK, Italy, and China, and is collected internationally. O’Mara’s last publication and exhibition “Encounters” showcased James O'Mara's career spanning fifty years, capturing iconic rock stars and candid moments across his favoured cities. This collection emphasizes the dynamism and ephemeral nature of life through his photographic lens.\n\nFor more information and interviews, please contact the gallery at +1-604-620-0049, or email info@paulkylegallery.com.\n\nGallery Hours: Tuesday to Saturday, 11:30 AM – 5:30 PM or by appointment anytime",
+      "geoCode": {
+        "latitude": 49.2688074,
+        "longitude": -123.0984692
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_photography_11.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458292",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458292",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Blue Water Cafe",
+      "description": "Blue Water Cafe serves excellent seafood and is committed to supporting the sustainability of every product they use. The restaurant focuses on fusion cuisine that combines Japanese tradition with local dishes. Blue Water Cafe serves top-notch dishes of high quality.\n\nAs a starter, the smoked salmon brings freshness thanks to the accompanying salad. Lobster with vegetables, mashed potatoes, and a white wine reduction make the ideal main course for those who wish to sample the best of the menu.\n \nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.276155,
+        "longitude": -123.1211291
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_2166440399_1.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458301",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458301",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "La Mezcaleria",
+      "description": "Mexican cuisine is La Mezcalería's specialty. Spicy flavors and creative recipes create a menu that pays homage to the best of the country's gastronomy. By using only the finest ingredients, the restaurant offers fresh, flavorful food.\n\nTacos and quesadillas are some of the restaurant's best recipes. The variety of tacos will allow you to try different proteins and combine them with traditional ingredients. Don't leave without trying some of La Mezcalería's mezcal and tequila, the perfect drinks to celebrate a fun occasion.\n\nFor more information on reservations and prices, check out their official website.",
+      "geoCode": {
+        "latitude": 49.2700977,
+        "longitude": -123.0692773
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_2045890415_RmKmliD.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "3273105",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/3273105",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Stanley Park, the largest park in Canada. (Available in Spanish)",
+      "description": "<p><strong><em>Get ready to travel to Canada without a passport or plane tickets !!<br></em></strong><br> <strong>Do you want to enjoy the amazing nature of Vancouver without leaving home?</strong><br> <strong>Stanley Park</strong> is <strong>Vancouver's oasis</strong> and the <strong>largest</strong> public <strong>park in North</strong> America. we will see the totem poles of the first nations, beautiful views of the harbor and learn some history about the park at the same time.<br><br> With your local tour guide, you will explore the park's many trails under the shade of tall cedars and panoramic views.<br><br> <strong>What do you need to be able to enjoy this experience?</strong><br><br> Your computer, good internet connection, your drink, snacks and a good attitude.<br> We will walk together virtually, <em>see you in Canada!</em></p><p>Free tour: Book for free and pay what you want at the end</p>",
+      "geoCode": {
+        "latitude": 49.297186,
+        "longitude": -123.134664
+      },
+      "price": {
+        "amount": "0.0"
+      },
+      "pictures": [
+        "https://d1i21eq0w7p1n3.cloudfront.net/1o8vzhfpvr6ememax1j8bilnk10v",
+        "https://d1i21eq0w7p1n3.cloudfront.net/x7op3s9ybptmjxswwj9e027xdf9r",
+        "https://d1i21eq0w7p1n3.cloudfront.net/t6iahbc3qznk2k06ppzz73wxfyvt",
+        "https://d1i21eq0w7p1n3.cloudfront.net/3tbbdse8nym5x0ikoexmh7t9k48s",
+        "https://d1i21eq0w7p1n3.cloudfront.net/lkxpbt6xwk8hobb2dv16dimgzqsn"
+      ],
+      "bookingLink": "https://www.guruwalk.com/walks/38399-stanley-park-the-largest-park-in-canada?ref=ojlgpuf3oo1nuk2s74m5",
+      "minimumDuration": "45 minutes"
+    },
+    {
+      "type": "activity",
+      "id": "6458178",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458178",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "VanDusen Botanical Garden",
+      "description": "Vancouver’s weather is ideal for producing spectacular displays of flowers, and there's no better place to see them in their full glory than the VanDusen Botanical Garden, a garden located a short distance from downtown on Oak Street near the aforementioned Queen Elizabeth Park.\n\nAs a pleasant place to wander, the VanDusen Botanical Garden is the ideal spot to enjoy the day with its countless different sections, including the Elizabethan hedge maze, the meditation garden, the Rhododendron Walk, Korean Pavilion, and the sino-Himalayan area. \n\nVisit this 55-acre oasis in the heart of Vancouver with over 7,500 plant species and varieties from around the world. The perfect place to relax and unwind in a serene setting or capture a photo or two of the local wildlife that can be found around the gardens.\n\nFor more information on schedules and prices, consult its official website.",
+      "geoCode": {
+        "latitude": 49.2385564,
+        "longitude": -123.1287215
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1116422744.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458184",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458184",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Gastown",
+      "shortDescription": "Explore Vancouver's oldest neighborhood, Gastown, known for its charming streets, fashion boutiques, top-notch restaurants, and historic landmarks.",
+      "description": "Welcome to the district of Gastown, Vancouver’s oldest neighborhood, and one of the top areas to visit when it comes to exploring the city. \n\nAs one of the most picturesque neighborhoods in downtown Vancouver, this district offers its visitors all kinds of things to do, from shopping in its thriving fashion scene and impeccably curated decor boutiques to having some of the best culinary in Vancouver, and enjoying some sightseeing as they walk its cobblestone streets, visit the old Steam Clock and fall in love with its vintage streetlights.\n\nVisit this district that retains a historic charm and independent spirit located along the north of the downtown Vancouver peninsula, from Richards east to Main Street, and south to Hastings Street.",
+      "geoCode": {
+        "latitude": 49.2828082,
+        "longitude": -123.1066875
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/gastown.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458185",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458185",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Chinatown Vancouver",
+      "shortDescription": "Vibrant and historic, Vancouver's Chinatown offers a taste of authentic Chinese culture with its colorful streets, delicious cuisine, and annual Chinese New Year parade.",
+      "description": "Home to the first Ming Dynasty-styled garden built outside of China, the Dr. Sun Yat-Sen Classical Chinese Garden, Vancouver’s Chinatown is one of the largest, most vibrant, and historic Chinatowns in North America. \n\nFeaturing modern buildings amid many older ones dating from Victorian times, this area, located primarily along Pender, Main, and Keefer Streets, between Gastown and the Downtown Eastside, features vivid colors, exotic cuisine, and vibrant culture and its known for being the place where Chinese New Year is celebrated annually with an excellent parade. \n\nThe perfect place to soak up some culture, experience authentic Chinese, eat traditional food, dress with typical customs, and immerse in Asian culture.",
+      "geoCode": {
+        "latitude": 49.2801149,
+        "longitude": -123.1058197
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/chinatown_vancouver.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458186",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458186",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Kitsilano Beach",
+      "description": "As one of Vancouver's most popular beaches, Kitsilano Beach has become a must-visit when in the city.\n\nWith sweeping views of downtown Vancouver, Burrard Inlet, and the North Shore Mountains, and surrounded by parks, restaurants, and beautiful people, this beach, known locally as Kits, and located on Cornwall Ave at the north end of Yew St., is definitely the ultimate Vancouver beach experience.\n\nVisit Kits, a beach that has everything an ocean-lover could possibly want whether they are into water sports, sunbathing, beachfront jogging, or just dipping their toes in the water, this beach is a stop not to be missed.\n\nFor more information consult its official website.",
+      "geoCode": {
+        "latitude": 49.2742438,
+        "longitude": -123.1547084
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/kitsilano_beach.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458187",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458187",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "English Bay",
+      "description": "This gem in the Vancouver crown is a beautiful vibrant bay that comes alive when it's sunny and warm out and a spectacular spot in all seasons as it is surrounded by great pubs and eateries on the periphery.\n\nLocated in the West End of Vancouver, next to Stanley Park, English Bay is the main bay of the city and a perfect place to enjoy the day by taking a walk on its seawall, laying on the beach, swimming in the ocean, scuba diving, kayaking, playing volleyball and many others activities.\n\nVisit English Beach, take in its gorgeous views, laid-back atmosphere, and beautiful beaches, and enjoy this place where the city meets the ocean.",
+      "geoCode": {
+        "latitude": 49.2871809,
+        "longitude": -123.1614389
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_383110003.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458188",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458188",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Granville Island",
+      "description": "This not-quite-an-island island is a little getaway in the middle of the city, located across False Creek from Downtown Vancouver, and popular for being a shopping and dining peninsula.\n\nAs a district, surrounded by lots of commercial businesses, including fresh product markets, restaurants, art galleries, theaters, cafes, a brewery, and more, is a vibrant place to enjoy a walk, and one of the top places to buy local produce in the heart of the city. \n\nVisit Granville Island, a perfect little getaway from the buzz of the city that can be done all year round, and enjoy its plethora of activities, and stunning waterfront views.\n\nFor more information on schedules and prices, consult its official website.",
+      "geoCode": {
+        "latitude": 49.2726402,
+        "longitude": -123.1330019
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1688585173.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458189",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458189",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Robson Street",
+      "description": "Famous for its shopping, Robson Street has become the ultimate stop for those who are looking to give their credit card a thorough workout or for those who love some window shopping.\n\nWith a main retail shopping area that starts around Granville Street, this neighborhood is surrounded by most of the major North American fashion brands, and some local fashion chains, along with a lively mix of sporting goods, accessories, homewares, beauty and wellness outlets, and a wide range of trendy and luxury brands like GAP, Lululemon, Roots, and Armani Exchange.\n\nAs one of Vancouver’s oldest shopping districts and a great place to find brand-name designer stores and restaurants, Robson Street is the district where most visitors find themselves when the shopping bug hits.",
+      "geoCode": {
+        "latitude": 49.2846045,
+        "longitude": -123.124824
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/robson_street.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458200",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458200",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Queen Elizabeth Park",
+      "shortDescription": "Queen Elizabeth Park in Vancouver offers breathtaking views, green spaces, sports facilities, gardens, and a conservatory, making it a must-visit for locals and tourists.",
+      "description": "Located at Cambie Street and West 33rd Ave, Queen Elizabeth Park is a place that attracts both locals and tourists alike as it is centered around Little Mountain, the highest point in the city, boasting breathtaking views with loads of lovely green spaces and fun outdoor activities for visitors to enjoy.\n\nWalking, jogging, and cycling around this park are only some of the activities to enjoy in this place as the park contains all sorts of interesting things to do like pitch-and-putt golf or tennis, with countless playing fields and sports facilities, and it also contains idyllic gardens, a Bloedel Conservatory and Nat Bailey Stadium, which is where the Vancouver Canadians play their baseball games.\n\nTake a stroll around the park, enjoy its beautiful views of the city, its gorgeous garden, the arboretum, and its fountain, and have one of the most delightful walks in the City.\n\nFor more information consult its official website.",
+      "geoCode": {
+        "latitude": 49.241757,
+        "longitude": -123.1126193
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/queen_elizabeth_park.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458202",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458202",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "petey",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_591139676_a75tkOV.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458203",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458203",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Static-X",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_682781752.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458204",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458204",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Drew Lynch",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/excited-audience.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458205",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458205",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Benson Boone",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/800px-cuarteto_quiroga_heidelberger_fruhling_2013_bild_002_1.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458198",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458198",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Canada Place",
+      "description": "Canada Place is a multi-use facility located on the waterfront of Vancouver's downtown core and is recognizable for its iconic white sails that soar above the building.\n\nThe complex was built in 1986 as the Canada Pavilion for the Expo '86 World's Fair, and it has since become an integral part of Vancouver's skyline. It is a hub for cruise ships, hosting over one million passengers annually, and it also serves as a convention center and event venue.\n\nVisitors to Canada Place can enjoy a variety of activities and attractions. The building's architecture and design make it a popular spot for photography, especially at night when the sails are illuminated. Inside, there is a range of shops, restaurants, and cafes where visitors can grab a bite to eat or browse for souvenirs.\n\nOne of the highlights of Canada Place is FlyOver Canada, an immersive flight simulation ride that takes visitors on a breathtaking journey across Canada. The experience uses state-of-the-art technology, including a giant screen, special effects, and motion seats, to make visitors feel like they are soaring over Canada's most iconic landscapes.\n\nFor more information on schedules and prices, consult its official website.",
+      "geoCode": {
+        "latitude": 49.2886946,
+        "longitude": -123.1111906
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1710485875.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458199",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458199",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Vancouver Lookout",
+      "description": "The Vancouver Lookout is a towering observation deck that offers a stunning 360-degree panoramic view of the city, the mountains, and the ocean. This iconic attraction stands at a height of 168 meters and is located on the 55th floor of the Harbour Centre building.\n\nVisitors can reach the lookout through a high-speed elevator that takes only 40 seconds to reach the top. The observation deck has both indoor and outdoor viewing areas, with informative displays and interactive exhibits that provide visitors with fascinating facts and insights about the city and its history.\n\nThe views are particularly breathtaking at sunset when the sky is painted in vibrant colors and the city lights up, creating a magical atmosphere.\n\nFor more information on schedules and prices, consult its official website.",
+      "geoCode": {
+        "latitude": 49.2846966,
+        "longitude": -123.1119349
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1009074658.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458253",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458253",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Damien Jurado",
+      "geoCode": {
+        "latitude": 49.2621863,
+        "longitude": -123.0704475
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1243718359.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458254",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458254",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "East of the Sun",
+      "description": "Join us as we celebrate Asian Heritage Month in a captivating double-bill concert blending Korean, Chinese, and Western jazz on May 3rd and 4th.\n\n“East of the Sun” will be more than a performance; it's a cultural exploration and a celebration of musical diversity. It promises to be a night filled with stunning harmonies and unforgettable musical dialogues that blend the best of multiple worlds. Be sure to secure your tickets for this one-of-a-kind musical journey and immerse yourself in the fusion of Korean and Chinese music with Western jazz.\n\nPresented by Caravan World Rhythms, Korean Cultural Centre Canada, Vancouver Chinese Instrumental Music Society, and Vancouver Independent Music Centre, this event promises a spellbinding mix of music that transcends cultural boundaries.\n\nExperience the Vancouver debut of SE:UM, the esteemed Korean ensemble known for their fusion of traditional Korean folk melodies and shamanistic rhythms. Their performance will feature tracks from their acclaimed albums \"The Sense of Water\" and \"Korean Breath: Ten Thousand Waves.\"\n\nJoining them is Jasmine Jazz, the 2023 Westcoast Music Awards' Instrumental Artist of the Year. This fusion ensemble blends traditional Chinese instruments with contemporary jazz, creating a beautiful harmony of East and West with jazz classics, traditional Chinese folk, and original pieces.\n\nDon't miss this unparalleled musical experience. For tickets, visit www.chinesemusicvancouver.com.",
+      "geoCode": {
+        "latitude": 49.28048949999999,
+        "longitude": -123.1194428
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/jazz-man-hands-holding-saxophone.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458255",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458255",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Vancouver Whitecaps vs. Tijuana",
+      "description": "Leagues Cup\nDay 3\nKO 4:00 AM\nBC Place Stadium (Vancouver, British Columbia)",
+      "geoCode": {
+        "latitude": 49.276722797,
+        "longitude": -123.112031221
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_football_18.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458256",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458256",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Nourished By Time",
+      "geoCode": {
+        "latitude": 49.264376,
+        "longitude": -123.100857
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_155572328.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458257",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458257",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Candlelight: A Tribute to Taylor Swift at Christ Church Cathedral",
+      "description": "⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Vancouver. Get your tickets now to discover the music of Taylor Swift at Christ Church Cathedral under the gentle glow of candlelight.\n\nGeneral Info\n\n📍 Venue: Christ Church Cathedral\n\n📅 Dates and times: select your dates/times directly in the ticket selector\n\n⏳ Duration: 60 minutes (doors open 45 mins prior to the start time and late entry is not permitted)\n\n👤 Age requirement: 8 years old or older. Anyone under the age of 16 must be accompanied by an adult\n\n♿ Accessibility: this venue is accessible for people with reduced mobility\n\n❓ View the FAQs for this event here\n\n🪑 Seating is assigned on a first come first served basis in each zone\n\n🕯️ If you would like to book a private concert (min 15+ people), please click here\n\n🎻 Check out all the Candlelight concerts in Vancouver\n\n🎁 To treat your friends and family to a Candlelight gift card, click here\n\nTentative Program\n\n“Lavender Haze”\n\n“Love Story”\n\n“Cardigan”\n\n“Blank Space”\n\n“Enchanted”\n\n“Anti-Hero”\n\n\"Snow on the Beach (ft. Lana Del Rey)\"\n\n“We Are Never Ever Getting Back Together”\n\n\"All Too Well\"\n\n“Lover”\n\n“I Knew You Were Trouble”\n\n“You Belong With Me”\n\n\"Shake It Off\"\n\nPerformers\n\nListeso String Quartet\n\nReviews of Candlelight Concerts\n\n💬 Daniel V. ⭐⭐⭐⭐⭐: \"Absolutely amazing! stellar performance by the musicians and great array of song pieces played. Highly recommend.\"\n\n💬 Gabriela G. ⭐⭐⭐⭐⭐: \"Loved it! From the welcome at the door to the very end it was a great event. Beautiful, intimate, full of energy and happiness.\"\n\n💬 Amber B. ⭐⭐⭐⭐⭐: \"This was a beautiful event with wonderfully talented musicians. Would go again and would recommend to anyone!\"\n\nFever Seating",
+      "geoCode": {
+        "latitude": 49.284973,
+        "longitude": -123.120548
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_2003958017.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458258",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458258",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Tohji",
+      "geoCode": {
+        "latitude": 49.2793932,
+        "longitude": -123.130024
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_11.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458265",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458265",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Orchestral Manoeuvres In The Dark",
+      "geoCode": {
+        "latitude": 49.2800806,
+        "longitude": -123.1204164
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1226321638.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458266",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458266",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Two Door Cinema Club",
+      "description": "The Irish are coming! The Irish are coming! Northern Irish dance-punk trio Two Door Cinema Club have stormed the urban scene with their fresh indie new-wave sound. Think of them as your ticket to catchy dance music without the guilt.\r\n \r\nIf you've been to any cool-kid parties with plenty of PBR or watched a Microsoft Outlook commercial you've heard Two Door Cinema Club. The debut single \"Something Good Can Work\" was originally released in 2009 on a trend-setting compilation from fashion house/record label Maison Kitsunè. If you can't remember it catch it on Youtube (it has nearly 15 million views).\r\n\r\nFollowing in the footsteps of French dance-pop phenomena Phoenix and '80s icon Duran Duran, Two Door Cinema Club recorded their debut 2010 album Tourist History at Eastcote Studios in London. Mixed by Phillip Zdar, his vision was to  punch up the beat with rich bass and foot-stomping rhythm. While on tour with Alt-J, Chvrches, Peace and St Lucia, their live sets turned into impromptu dance parties, not even the most passive fans couldn't resist the groove.\r\nTheir sophomore album Beacon, produced by Jacknife Lee was released in September 2012 and reached No. 17 on the U.S. Billboard 200 with  singles\" Sleep Alone\" and \"Sun.\" Well thought hooks, good beats, and fearless when it comes to having fun, Two Door Cinema Club is going to have many honorary members wanting to join in.",
+      "geoCode": {
+        "latitude": 49.2800806,
+        "longitude": -123.1204164
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1447131587.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458206",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458206",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Bombay Bicycle Club",
+      "description": "Bombay Bicycle Club have been writing songs for Saturday nights and songs for Sunday mornings since their mid-teens. That they’re now barely in their thirties and remain one of the most inventive, insistent and, arguably, influential British guitar bands of the past generation says much to their powers of reinvention. But it also speaks to the band’s effortless ear for a melody and the masters of its deployment.\r\n\r\nHeading back to the band’s studio in London, Bombay Bicycle Club have lovingly crafted album six – My Big Day. It’s a powerful, expansive body of work, replete with an irrepressible dose of joy too.\r\n\r\nMy Big Day also found the band’s studio door wedged open for a collaborative experience, inviting the likes of Jay Som, Nilüfer Yanya, and Holly Humberstone and Damon Albarn who all feature. There’s a special guest appearance to be revealed later in the year too.\r\n\r\nWhilst the guests came and went as they pleased, the band posited themselves on both sides of the glass for this record, with Jack manning the production chair (save for ‘Heaven’, produced alongside Paul Epworth, and ‘Turn The World On’ with Ben Allen - who they’d previously worked with on ‘Shuffle’).\r\n\r\nOn first listen, Bombay Bicycle Club have opened up the curtains and let this revelatory set of vibrant, joyous compositions bask in the sunshine. It’s an album that means business, sculpted by one of Britain’s best guitar bands. They’ll take it to stages across the world next, and that’s a show you won’t want to miss.",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1139335343.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458207",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458207",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Hollow Coves",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/jorge_drexler_en_fiesta_inauguracion_estadio_campeon_del_siglo_pPI4aKA.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458208",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458208",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Little BIG",
+      "description": "Little Big is a Russian punk-pop rave band that has taken the international music scene by storm with its infectious beats, eccentric visuals, and unique blend of genres. Their music is a fusion of electronic, punk, and pop elements, creating a sound that is both energetic and unpredictable. Following the Russian invasion of Ukraine, Little Big spoke out loudly against the war and was forced to flee their home country and relocate to the US. \r\n\r\n\r\nLittle Big gained widespread recognition with their breakout single \"Everyday I'm Drinking\" in 2014, but it was their 2018 viral hit, \"Skibidi,\" followed by their participation in the Eurovision Song Contest 2020 that truly catapulted them onto the global stage. The band's Eurovision entry, \"UNO,\" became an instant hit, showcasing their unapologetically bold style and captivating performances. The accompanying music video, known for its surreal and striking imagery, further solidified Little Big's reputation as a boundary-pushing and visually-driven musical force. It remains the most watched video in Eurovision history with over 280 million views on YouTube. The video for “Skibidi” boasts an even more impressive 715 million views. \r\n\r\n\r\nWhat sets Little Big apart is not only their music but also their theatrical and often controversial stage presence. Their live performances are a riot of colors, eccentric costumes, and high-energy choreography, creating an immersive experience for their audience. The band's lyrics often touch on social issues, delivered with a humorous and satirical twist that adds depth to their catchy tunes.\r\n\r\n\r\nBeyond their musical endeavors, Little Big has become a cultural phenomenon, amassing a dedicated fan base around the world. Their influence extends to social media, where their music videos go viral, and their bold fashion choices inspire fans to embrace individuality and creativity.\r\n\r\n\r\nIn a musical landscape that can sometimes be formulaic, Little Big stands out as a breath of fresh air, pushing boundaries and challenging conventions. With their contagious energy and fearless approach to creativity, Little Big continues to leave an indelible mark on the global music scene, proving that innovation and entertainment can go hand in hand.",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/littlebig.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458209",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458209",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Kamasi Washington",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_46.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458211",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458211",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Róisín Murphy",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_11.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458212",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458212",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Hobo Johnson",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1899621607.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458213",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458213",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Hatebreed",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_37.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458214",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458214",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "The Hardkiss",
+      "geoCode": {
+        "latitude": 49.2798937,
+        "longitude": -123.1218082
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/pitbull_2012.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458215",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458215",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Half-Day Whale Watching Adventure from Vancouver",
+      "description": "📱 Smartphone tickets\n\n⚡ Instant access to your tickets\n\nJump on a high-speed, luxury catamaran and glide through the Salish Sea with us! Designed for ultimate viewing pleasure and built right here in Canada, our boats prioritize the safety of both the majestic marine life and you. Immerse yourself in the beauty of Georgia Strait, spot native marine wildlife, and let our local experts fill the air with fascinating tales. It's the ultimate whale watching escapade you don't want to miss. Get your tickets for Half-Day Whale Watching Adventure from Vancouver!\n\n\n\nHighlights\n\n🐋 Experience the thrill of whale watching on luxury catamarans.\n🌊 Immerse yourself in the beauty of Georgia Strait with expert narration.\n☕ Enjoy complimentary tea, coffee, and hot chocolate onboard.\n\n\n\nWhat's included?\n\n✔️ Free photo package of your trip & wildlife, with personal photos of you and your loved ones.\n✔️ 95-passenger vessel featuring indoor, heated cabin with floor to ceiling windows and open air decks.\n✔️ Two washrooms.\n✔️ Captain and expert crew of 3-4 guides/naturalists.\n✔️ Complementary tea, coffee & hot chocolate.\n✔️ Educational materials on board.\n✔️ Lifetime Whale Sightings Guarantee - return tour from any of our locations until you see whales!\n\n\n\nAdditional Information\n\n🐕 Service animals are welcome with the appropriate documentation and a life jacket.\n🚆 Nearby public transportation options are readily available.\n👶 Infants must sit on an adult’s lap.\n🏋️‍♂️ This experience is suitable for all levels of physical fitness.\n👥 A minimum number of participants is required. Should this number not be met, you might be offered an alternative date or a full refund.\n☔ The experience takes place come rain or shine, so please dress accordingly.\n\n\n\nWhy choose Fever?\n\n✔️ Millions of users book every month.\n\n✔️ The best prices and availability at all times.\n\n✔️ Thousands of unique experiences.\n\n✔️ Verified user reviews.\n\n✔️ 24/7 customer service.\n\n\n\nExperience available in English\n\nExperience supplied by: Prince of Whales Whale & Marine Wildlife Adventures\n\nAll ticket sales are final and cannot be refunded, exchanged, or otherwise modified. Click here to check out the T&Cs.",
+      "geoCode": {
+        "latitude": 49.2721592,
+        "longitude": -123.1363381
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/two-tickets-with-barcode.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458216",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458216",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Candlelight Spring: Coldplay & Imagine Dragons",
+      "description": "⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Vancouver. Get your tickets now to discover the music of Coldplay & Imagine Dragons at Kerrisdale Presbyterian Church under the gentle glow of candlelight.\n\nGeneral Info\n\n📍 Venue: Kerrisdale Presbyterian Church\n\n📅 Dates and times: select your dates/times directly in the ticket selector\n\n⏳ Duration: 60 minutes (doors open 30 mins prior to the start time and late entry is not permitted)\n\n👤 Age requirement: 8 years old or older. Anyone under the age of 16 must be accompanied by an adult\n\n♿ Accessibility: this venue is accessible for people with reduced mobility\n\n❓ View the FAQs for this event here\n\n🪑 Seating is assigned on a first come first served basis in each zone\n\n🕯️ If you would like to book a private concert (min 15+ people), please click here\n\n🎻 Check out all the Candlelight concerts in Vancouver\n\n🎁 To treat your friends and family to a Candlelight gift card, click here\n\nTentative Program\n\nColdplay - Clocks\n\nColdplay - Something Just Like This\n\nImagine Dragons - Radioactive\n\nColdplay - Adventure of a Lifetime\n\nColdplay - Fix You\n\nImagine Dragons - Natural\n\nImagine Dragons - Next to Me\n\nColdplay - The Scientist\n\nImagine Dragons - Follow You\n\nImagine Dragons - Bad Liar\n\nColdplay - Viva la Vida\n\nImagine Dragons - Believer\n\nColdplay - Sky Full of Stars\n\nColdplay - My Universe\n\nPerformers\n\nListeso String Quartet\n\nReviews of Candlelight Concerts\n\n💬 Daniel V. ⭐⭐⭐⭐⭐: \"Absolutely amazing! stellar performance by the musicians and great array of song pieces played. Highly recommend.\"\n\n💬 Gabriela G. ⭐⭐⭐⭐⭐: \"Loved it! From the welcome at the door to the very end it was a great event. Beautiful, intimate, full of energy and happiness.\"\n\n💬 Amber B. ⭐⭐⭐⭐⭐: \"This was a beautiful event with wonderfully talented musicians. Would go again and would recommend to anyone!\"\n\nFever Seating",
+      "geoCode": {
+        "latitude": 49.23514,
+        "longitude": -123.166652
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/800px-imagine_dragons_%D0%BD%D0%B0_live_american_music_awards_2013.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458217",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458217",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Candlelight Spring: A Tribute to Taylor Swift",
+      "description": "🌷 Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Vancouver. Get your tickets now to discover the music of Taylor Swift at Kerrisdale Presbyterian Church bathed in a lush, floral display dedicated to spring.\n\nGeneral Info\n\n📍 Venue: Kerrisdale Presbyterian Church\n\n📅 Dates and times: select your dates/times directly in the ticket selector\n\n⏳ Duration: 60 minutes (doors open 30 mins prior to the start time and late entry is not permitted)\n\n👤 Age requirement: 8 years old or older. Anyone under the age of 16 must be accompanied by an adult\n\n♿ Accessibility: this venue is accessible for people with reduced mobility\n\n❓ View the FAQs for this event here\n\n🪑 Seating is assigned on a first come first served basis in each zone\n\n🕯️ If you would like to book a private concert (min 15+ people), please click here\n\n🎻 Check out all the Candlelight concerts in Vancouver\n\n🎁 To treat your friends and family to a Candlelight gift card, click here\n\nTentative Program\n\n“Lavender Haze”\n\n“Love Story”\n\n“Cardigan”\n\n“Blank Space”\n\n“Enchanted”\n\n“Anti-Hero”\n\n\"Snow on the Beach (ft. Lana Del Rey)\"\n\n“We Are Never Ever Getting Back Together”\n\n\"All Too Well\"\n\n“Lover”\n\n“I Knew You Were Trouble”\n\n“You Belong With Me”\n\n\"Shake It Off\"\n\nPerformers\n\nListeso String Quartet\n\nReviews of Candlelight Concerts\n\n💬 Daniel V. ⭐⭐⭐⭐⭐: \"Absolutely amazing! stellar performance by the musicians and great array of song pieces played. Highly recommend.\"\n\n💬 Gabriela G. ⭐⭐⭐⭐⭐: \"Loved it! From the welcome at the door to the very end it was a great event. Beautiful, intimate, full of energy and happiness.\"\n\n💬 Amber B. ⭐⭐⭐⭐⭐: \"This was a beautiful event with wonderfully talented musicians. Would go again and would recommend to anyone!\"\n\nFever Seating",
+      "geoCode": {
+        "latitude": 49.23514,
+        "longitude": -123.166652
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_2003958017.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458218",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458218",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Candlelight Spring: The Best of Hans Zimmer",
+      "description": "⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Vancouver. Get your tickets now to discover the music of Hans Zimmer at Kerrisdale Presbyterian Church under the gentle glow of candlelight.\n\nGeneral Info\n\n📍 Venue: Kerrisdale Presbyterian Church\n\n📅 Dates and times: select your dates/times directly in the ticket selector\n\n⏳ Duration: 60 minutes (doors open 30 mins prior to the start time and late entry is not permitted)\n\n👤 Age requirement: 8 years old or older. Anyone under the age of 16 must be accompanied by an adult\n\n♿ Accessibility: this venue is accessible for people with reduced mobility\n\n❓ View the FAQs for this event here\n\n🪑 Seating is assigned on a first come first served basis in each zone\n\n🕯️ If you would like to book a private concert (min 15+ people), please click here\n\n🎻 Check out all the Candlelight concerts in Vancouver\n\n🎁 To treat your friends and family to a Candlelight gift card, click here\n\nTentative Program\n\nTime from Inception\n\nThis Land from The Lion King\n\nZooster’s Breakout from Madagascar\n\nSupermarine from Dunkirk\n\nHonor from The Pacific\n\nA Dark Knight from The Dark Knight\n\nWonder Woman Suite\n\nGladiator Suite\n\nCornfield Chase from Interstellar\n\nDune Suite\n\nDiscombobulate from Sherlock Holmes\n\nPirates of the Caribbean Suite\n\nPerformers\n\nListeso String Quartet\n\nReviews of Candlelight Concerts\n\n💬 Daniel V. ⭐⭐⭐⭐⭐: \"Absolutely amazing! stellar performance by the musicians and great array of song pieces played. Highly recommend.\"\n\n💬 Gabriela G. ⭐⭐⭐⭐⭐: \"Loved it! From the welcome at the door to the very end it was a great event. Beautiful, intimate, full of energy and happiness.\"\n\n💬 Amber B. ⭐⭐⭐⭐⭐: \"This was a beautiful event with wonderfully talented musicians. Would go again and would recommend to anyone!\"\n\nFever Seating",
+      "geoCode": {
+        "latitude": 49.23514,
+        "longitude": -123.166652
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1255731235.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458219",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458219",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Candlelight Spring: The Best of Joe Hisaishi",
+      "description": "🌷 Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Vancouver. Get your tickets now to discover the music of Joe Hisaishi at Kerrisdale Presbyterian Church bathed in a lush, floral display dedicated to spring.\n\nGeneral Info\n\n📍 Venue: Kerrisdale Presbyterian Church\n\n📅 Dates and times: select your dates/times directly in the ticket selector\n\n⏳ Duration: 60 minutes (doors open 30 mins prior to the start time and late entry is not permitted)\n\n👤 Age requirement: 8 years old or older. Anyone under the age of 16 must be accompanied by an adult\n\n♿ Accessibility: this venue is accessible for people with reduced mobility\n\n❓ View the FAQs for this event here\n\n🪑 Seating is assigned on a first come first served basis in each zone\n\n🕯️ If you would like to book a private concert (min 15+ people), please click here\n\n🎻 Check out all the Candlelight concerts in Vancouver\n\n🎁 To treat your friends and family to a Candlelight gift card, click here\n\nTentative Program\n\nNausicaa of the Valley of the Wind - “Opening Theme”\n\nLaputa: Castle in the Sky - “Kimi wo Nosete - Carrying You”\n\nMy Neighbour Totoro - “Kaze no Toori Michi - Path of the Wind”\n\nMy Neighbour Totoro - “Tonari no Totoro - Main Theme”\n\nKiki's Delivery Service - “Umi no Mieru Machi - A Town with an Ocean View”\n\nKiki's Delivery Service - “Tabidachi - Journey”\n\nPrincess Mononoke - “Main Theme”\n\nSpirited Away - “Inochi no Namae - Name of Life”\n\nSpirited Away - “Chihiro's Waltz”\n\nPonyo - “Gake no Ue no Ponyo - Ponyo on the Cliff”\n\nThe Wind Rises - “A Journey (A Dream of Flight)”\n\nKikujiro - “Summer”\n\nThe Tale of Princess Kaguya - “When I Remember This Life”\n\nHowl's Moving Castle - “Merry Go Round of Life”\n\nPerformers\n\nListeso String Quartet\n\nReviews of Candlelight Concerts\n\n💬 Daniel V. ⭐⭐⭐⭐⭐: \"Absolutely amazing! stellar performance by the musicians and great array of song pieces played. Highly recommend.\"\n\n💬 Gabriela G. ⭐⭐⭐⭐⭐: \"Loved it! From the welcome at the door to the very end it was a great event. Beautiful, intimate, full of energy and happiness.\"\n\n💬 Amber B. ⭐⭐⭐⭐⭐: \"This was a beautiful event with wonderfully talented musicians. Would go again and would recommend to anyone!\"\n\nFever Seating",
+      "geoCode": {
+        "latitude": 49.23514,
+        "longitude": -123.166652
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_682781752.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458221",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458221",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Pearl Jam",
+      "description": "Pearl Jam is an American rock band formed in Seattle, Washington, in 1990. The band consists of founding members Stone Gossard (rhythm guitar), Jeff Ament (bass), Mike McCready (lead guitar), and Eddie Vedder (lead vocals), as well as Matt Cameron (drums), who joined in 1998.\r\n\r\nPearl Jam is one of the most successful and influential rock bands of all time. They have sold over 100 million records worldwide and have won numerous awards, including three Grammy Awards. They have also been inducted into the Rock and Roll Hall of Fame.\r\n\r\n\r\nPearl Jam is an American rock band formed in Seattle, Washington, in 1990. The band consists of founding members Stone Gossard (rhythm guitar), Jeff Ament (bass), Mike McCready (lead guitar), and Eddie Vedder (lead vocals), as well as Matt Cameron (drums), who joined in 1998.\r\nPearl Jam bandSe abre en una ventana nueva\r\n\r\nPearl Jam is one of the most successful and influential rock bands of all time. They have sold over 100 million records worldwide and have won numerous awards, including three Grammy Awards. They have also been inducted into the Rock and Roll Hall of Fame.\r\nPearl Jam album TenSe abre en una ventana nueva\r\nen.wikipedia.org\r\nPearl Jam album Ten\r\n\r\nPearl Jam's music is characterized by its raw energy, its emotional lyrics, and its eclectic mix of influences, including rock, grunge, folk, and punk. The band is known for their powerful live performances and their ability to connect with their fans on a deep level.\r\n\r\nPearl Jam has released eleven studio albums, all of which have been met with critical acclaim. Their most popular albums include Ten (1991), Vs. (1993), Vitalogy (1994), and No Code (1996).\r\n\r\nThe band has also released several live albums and DVDs. They have toured extensively throughout the world and have performed at major festivals such as Lollapalooza, Glastonbury, and Coachella.\r\n\r\nPearl Jam is one of the most important and influential rock bands of all time. They have made a significant impact on music culture and have inspired millions of fans around the world.",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_2233698839.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458222",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458222",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Usher",
+      "description": "USHER has cemented his status as a generation-defining superstar over a three-decade career. After releasing his 1997 breakthrough album My Way — his first album to make the Top 5 on the Billboard 200 — he defined the 2000s with Billboard Hot 100 No. 1 hits like “Yeah!” (featuring Lil Jon and Ludacris), “OMG” (featuring will.i.am) and “Love in This Club” (featuring Young Jeezy). USHER’s diamond-certified album Confessions (2004) marked his first No. 1 on the Billboard 200 and produced four No. 1 hits, including “My Boo” featuring Alicia Keys. The eight-time Grammy Award winner launched his “My Way” Las Vegas residency in July 2022, with tickets selling out almost immediately, and is set to embark on the massive USHER: Past Present Future run in 2024.",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_2009220914.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458223",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458223",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Lainey Wilson",
+      "description": "CMA 2022 Female Vocalist of the Year, CMA 2022 New Artist of the Year, and ACM's 2022 New Female Artist of the Year, Lainey Wilson has earned the enthusiasm of the industry. Having been named to nearly every \"Artist to Watch\" list, being crowned Billboard's \"Top New Country Artist of 2021,\" and earning CMT's 2022 \"Breakout Artist of the Year\" honor, the Louisiana native is one of Nashville's hottest and most buzzed-about new artists. Landing her first No. 1 with her PLATINUM Certified ACM Song of the Year \"Things A Man Oughta Know,\" nearly 10 years to the day after leaving her small farming community in a camper trailer to chase her dreams, she has won over legions of fans with her signature Bell Bottom Country sound and aesthetic, which blends traditional Country with a modern yet retro flare. A prolific and sought-after songwriter (having co-writer credits on songs by artists including Luke Combs, Flatland Calvary and more), Lainey is a fresh, fierce voice in Nashville, delivering CMA nominated album of the year with her label debut, Sayin' What I'm Thinkin'. With a rockstar stage presence, her artistry has taken her across the globe, performing for sold-out crowds throughout the US, UK, and Germany with notable names like Jon Pardi, Luke Combs, Morgan Wallen, HARDY, Jason Aldean, Ashley McBryde, and more. After topping the country radio charts for a second time with the two-week No. 1 hit, \"Never Say Never\" with Cole Swindell, her current single \"Heart Like a Truck\" is Top 20 and climbing, with the HARDY collaboration \"wait in the truck\" sitting close behind in the Top 25. Her new album, \"Bell Bottom Country,\" is out now and currently #12 on Billboard's Country Albums chart, and she's soon to make her acting debut on the hit series Yellowstone on Sunday, November 13.",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1243718359.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458224",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458224",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Cigarettes After Sex",
+      "description": "Indulge in the ethereal melodies of Cigarettes After Sex as they paint a dreamscape of intimate serenades. Enter a world where time stands still, where every note lingers in the air like whispered secrets. Let their haunting vocals and atmospheric soundscapes transport you to a realm of bittersweet longing and intoxicating melancholy. \r\n\r\nSurrender to the seductive allure as their music envelops you in a velvety embrace, evoking emotions you didn't know existed. Join the nocturnal souls and let Cigarettes After Sex cast a spell on your heart, creating a concert experience that will leave you yearning for more.",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/cigarettes_after_sex.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458225",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458225",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "The War on Drugs and The National",
+      "description": "The National are probably the biggest band to come out of Cincinnati, Ohio. The indie-rock group is made up of 5 band members, including two sets of brothers, who play alongside lead singer Matt Beringer.\r\n    \r\n  \r\n    \r\n      The band were formed in 1999, and they’ve been touring pretty much ever since. Most of their time as a group has been spent in Brooklyn, New York, where they’ve had a slow burning career that’s seen them grow from being a hardworking but relatively unknown band, to a group who headline festivals around the world and sell out 20,000 capacity arenas.\r\n      The full line up consists of lead vocalist Matt Beringer, twin brothers Aaron (guitar, bass, keys) and Bryce Dessner (guitar), and another set of brothers Scott (bass, guitar) and Bryan Devendorf (drums).\r\n      Matt Beringer’s distinctive baritone voice, alongside his self-penned discerning lyrics gives the band a unique sound, often described as erring on the sombre-side. They are said to have taken influence from the likes of Tom Waits and Nick Cave, but believe strongly in being innovative and continuing to grow independently as an act.\r\n      Interesting fact: one of their biggest breakthrough moments came from their track \"Fake Empire\" featuring on the 2008 Obama campaign. This, alongside successful support tours with artists like R.E.M., set them on the path to their current popularity. The release of \"High Violet\" in 2010 saw them reach the biggest achievements of their career - hitting the top 5 across the UK, US and Canada.\r\n      Their most recent album \"Trouble Will Find Me\", was the record that really cemented them into the mainstream. Just before the release of this sixth EP, they premiered a documentary called \"Mistaken For Strangers\" which followed the band on their \"High Violet\" tour, focusing mainly on the relationship between singer Matt Beringer and his brother, who took on the role of assistant tour manager.\r\n      The National are true strivers, they’ve gradually warmed their way into many a record collection, and with each release prove themselves to be more accomplished than before. Despite their more recent successes, they are not to be considered as having reached a peak: it’s in their nature to continue to improve on themselves.",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/the_national.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458226",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458226",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Cage the Elephant, Young the Giant, and Bakar",
+      "description": "Young the Giant first broke through with their 2010 self-titled debut album, which featured the RIAA-gold certified hits, \"My Body\" and \"Cough Syrup.\" This was followed by the release of 2014’s Mind Over Matter, which was both a commercial and critical success and prompted The New York Times to call [Lead singer Sameer Gadhia] “one of the great contemporary rock voices.\r\n\r\nSince then, the band has toured the world, with their most recent route featuring sold out performances at Radio City Music Hall, The Greek Theatre, and Aragon Ballroom in addition to becoming a festival mainstay.",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/1024px-young_the_giant_47158675122.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458227",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458227",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Kacey Musgraves, Father John Misty, and Nickel Creek",
+      "description": "Kacey Lee Musgraves (born August 21, 1988) is an American country music singer and songwriter from Mineola, Texas, in the U.S.\r\n    \r\n  \r\n    \r\n      Musgraves first taste of music was at the modest age of eight where she wrote a song for her elementary school graduation titled “Notice Me”, which largely represented her musical career until 2007. After elementary school she learned to play the mandolin, the guitar and the harmonica among others and used to record country music demos to make money and play at local swing music festivals.\r\n      The singer-songwriter self-released three albums“Movin’ On”, “Wanted: One Good Cowboy” and a self-titled in 2007. The same year brought Musgraves big break where she appeared on the USA Network’s singing competition Nashville Star, which is a similar set-up to American Idol. The singer came seventh but gave Musgraves some much-needed publicity and allowed her to make tracks within the Nashville music scene.\r\n      In 2008 the independent label Triple Pop discovered Musgraves with whom she recorded the songs “Apologize” and “See You Again” to modest success however her big break was still to come.\r\n      In 2012 Kacey Musgraves accompanied Lady Antebellum on their Own the Night tour in the United Kingdom, as well as signing with the label Mercury Records with whom she released her solo debut single “Merry Go ‘Round”. The song is featured on her album “Same Trailer Different Park” along with other hit singles “Blowin’ Smoke” and “Follow Your Arrow” the latter of which was voted by Rolling Stone as No. 39 of their list 100 Greatest Country Songs. Around this time she co-wrote the 2013 single “Mama’s Broken Heart” with the infamous Miranda Lambert.\r\n      Musgraves was nominated for four Grammy Awards at the 56th Annual Grammy Awards including Best New Artist, Best Country Album, and two for Best Country Song, she won Best Country song for “Merry Go ‘Round” and Best Country Album for “Same Trailer Different Park”. Musgrave joined Katy Perry on the North American leg of her Prismatic World Tour as well as playing with the likes of Willie Nelson and Alison Krauss.",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_145074796.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458228",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458228",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Chris Brown",
+      "description": "Chris Brown is an American R&B pop artist who quickly rose to fame in the mid-2000s after a string of successful singles such as “Run It” and “Yo (Excuse Me Miss)”, followed by his successful self-titled debut album in 2005.\r\n    \r\n  \r\n    \r\n      Christopher Maurice Brown was born in Tappahannock, Virginia, on May 5, 1989. His interest and education in music began, like many pop singers, through his involvement in his church choir. During his teenage years, his golden-boy sensibilities waned and his interest in the emerging R&B scene in the US took hold.\r\n      What makes Chris Brown’s music notable is his wide depth of talent. To some, he is a pop music legend, with upbeat tunes and energetic lyrics that make you want to dance. To others, he is an R&B legend, showcasing the soul and heart of his earliest musical influences. He also is known for his slow crooner style of music, which is showcased in songs like “Take You Down” and “Autumn Leaves.” In these songs, Brown demonstrates his ability to convey deep emotions through the slow use of melody and artfully seductive vocals.\r\n      Brown is most renowned for his incredible talent as a rapper. “Look at Me Now,” “Run It!,” and “Go Crazy” all showcase his knack for spitting out lines at wild speeds.\r\n      After moving to New York City, Brown was soon scouted by A&R executive Tina Davis and subsequently signed his first record deal with Jive Records, whose alumni include pop singers Britney Spears and Justin Timberlake, in 2004. His debut self-titled album, released the following year, reached No. 2 on the US Billboard charts and was soon certified double platinum.\r\n      The following years were nothing but a string of successes for Brown as he further dominated the charts with pop singles such as “Beautiful People,” “I Can Transform Ya,” and “Yeah x3.” To date, Chris Brown has released a total of twelve albums, with numerous albums winning notable awards.\r\n      One of Brown’s most decorated albums, F.A.M.E., went on to win the Album of the Year Award at the 2011 Soul Train Music Awards. Not only that, but shortly after the release of this album, Brown took home the highest number of awards ever given at the 2011 BET Hip Hop Awards. Other notable albums from Chris Brown include Fortune X; Fan of a Fan: The Album; Royalty; Heartbreak on a Full Moon; Indigo; Slime & B; and his latest release Breezy.\r\n      Brown has now certified himself as a staple of American pop and R&B music and remains a continued presence on the charts with both his own material and collaborations with artists such as Jordin Sparks, Lil’ Wayne, and David Guetta.\r\n      Recently, Chris Brown has been on tour with Lil Baby, packing stadiums on their One of Them Ones tour. Together, they take the stage for hours on end, performing their biggest hits. Both his musical talent and his incredibly complex choreographed routines combine to create a memorable event. Now, with Lil Baby sharing the stage, Brown continues to deliver powerful energy during his live concerts.\r\n      Having kicked off the One of Them Ones tour in July 2022, Brown is scheduled to perform with Lil Baby at venues across North America throughout the rest of the year.\r\n      In addition to selling out his own shows over the years, Chris Brown has also taken center stage at countless festivals and events. Recently, he was seen serving up his signature tunes at the Wireless Festival in London. This festival is known as one the largest rap music festivals in the world, attracting talent from around the globe.\r\n      Fans eagerly await the next Chris Brown tour dates, hoping for more shows to be scheduled in cities around the world. Be sure to stay tuned to find out when the latest tour dates are announced.",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/chris_brown.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458229",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458229",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Hans Zimmer",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1255731235.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458233",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458233",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Sam Barber",
+      "geoCode": {
+        "latitude": 49.2644464,
+        "longitude": -123.1745456
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/avicii_2014_002.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458234",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458234",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Doobie",
+      "geoCode": {
+        "latitude": 49.2644464,
+        "longitude": -123.1745456
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_416999830.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458235",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458235",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "The 502s",
+      "geoCode": {
+        "latitude": 49.2644464,
+        "longitude": -123.1745456
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/2018_mx_mm_lila_downs_45614733394.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458236",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458236",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Strung Out and The Casualties",
+      "geoCode": {
+        "latitude": 49.2644464,
+        "longitude": -123.1745456
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/artworks-dhezuquc8cv7igu4-wgliwa-t500x500.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458237",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458237",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Skydiggers",
+      "geoCode": {
+        "latitude": 49.2644464,
+        "longitude": -123.1745456
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_39.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458238",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458238",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Tinariwen",
+      "geoCode": {
+        "latitude": 49.2644464,
+        "longitude": -123.1745456
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1465441049.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458239",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458239",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Rhye",
+      "geoCode": {
+        "latitude": 49.2644464,
+        "longitude": -123.1745456
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/800px-helloween_-_pumpkins_united_-_wacken_open_air_2018_22.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458240",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458240",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Searows",
+      "geoCode": {
+        "latitude": 49.2644464,
+        "longitude": -123.1745456
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_102807497.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458241",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458241",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "The Velveteins",
+      "geoCode": {
+        "latitude": 49.2828273,
+        "longitude": -123.0673836
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_131270075.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458242",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458242",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Pokey LaFarge",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/1600px-monica_naranjo_3.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458243",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458243",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Jjuujjuu",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_48.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458244",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458244",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Glass Beams",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1132557947.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458245",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458245",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Wine Lips",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_61.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458246",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458246",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Amenra, Primitive Man, and Slow Crush",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_9.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458247",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458247",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Sonido Gallo Negro",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_145074796.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458248",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458248",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "La Luz",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_18.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458249",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458249",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "MIKE (Rapper)",
+      "geoCode": {
+        "latitude": 49.2806091,
+        "longitude": -123.1212455
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_2216138119.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458294",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458294",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Gallery Bistro",
+      "description": "In 1931, Gallery Bistro opened its doors to welcome an experience full of glamour, art, and gastronomy. Since then, the restaurant has become one of the most beloved in the city and is chosen by hundreds of diners to celebrate special occasions. \n\nA terrace with a beautiful view composes the perfect panorama to enjoy high-quality dishes in a vibrant and elegant space. Its minimalist aesthetic allows you to focus on every detail that lines the space thanks to its location within the Vancouver Art Gallery. Try the classic eggs benedict at the restaurant's brunch offering.\n\nFor more information on reservations and pricing, check out their official website.",
+      "geoCode": {
+        "latitude": 49.2830077,
+        "longitude": -123.1208179
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1962690004_HJBZbKn.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458269",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458269",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Hana Vu",
+      "geoCode": {
+        "latitude": 49.27739529999999,
+        "longitude": -123.0660779
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_327284222.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458275",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458275",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Madison Beer and UPSAHL",
+      "description": "Madison Beer is a pop singer from Jericho, New York. As a young teenager, she first went viral in 2012 after Justin Bieber shared her YouTube cover of Etta James’ “At Last” on social media. Beer quickly signed a record deal and began releasing singles like 2013’s “Melodies” and 2014’s “Unbreakable.” As She Pleases, her debut EP, was released in 2018 and became her first entry on the Billboard 200. In 2020, Beer released her debut album Life Support, which included the fan favorite single “Selfish.” In 2023, the rising star’s sophomore album, Silence Between Songs, scored a Grammy nomination for Best Immersive Audio Album. Elsewhere, she is also one of the voices behind the virtual K-pop group K/DA. In 2024, Beer will embark on The Spinnin Tour across Europe, the U.K. and North America.",
+      "geoCode": {
+        "latitude": 49.2800254,
+        "longitude": -123.1126025
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1746807260.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458277",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458277",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Tedeschi Trucks Band",
+      "geoCode": {
+        "latitude": 49.2800254,
+        "longitude": -123.1126025
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_9.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458278",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458278",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Air",
+      "geoCode": {
+        "latitude": 49.2800254,
+        "longitude": -123.1126025
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_18.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458279",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458279",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Maren Morris",
+      "geoCode": {
+        "latitude": 49.2800254,
+        "longitude": -123.1126025
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/silvana_estrada_7.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458285",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458285",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Beaucoup Bakery & Café",
+      "description": "¿Beaucoup Bakery & Café is known for its delicious French-style pastries that inspire every diner from the first bite. Siblings Betty and Jacky Hung transformed Beaucoup Bakery & Café with the desire to create a space that blended Betty's passion for design and cooking with Jacky's barista expertise.\n\n The bakery has been mentioned in different local media thanks to its recipes that transport its customers on a gastronomic journey full of sweetness. The menu includes traditional recipes such as butter croissants and chocolate bread. It also features creative dishes such as raspberry brioche and the peanut butter cookie sandwich.\n\nFor more information on reservations and prices, check out their official website.",
+      "geoCode": {
+        "latitude": 49.2664263,
+        "longitude": -123.1406638
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1110602513.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458286",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458286",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Jamjar",
+      "description": "Jamjar is the home of Lebanese food in Vancouver. Its philosophy is based on simplifying the traditional dishes of Lebanese gastronomy and transforming them into a means of cultural knowledge. Fresh and seasonal ingredients are the basis of its culinary proposal to provide high-quality recipes.\n\nThe restaurant's menu is designed for sharing. It is recommended to order several dishes to have the opportunity to taste different facets of Lebanese gastronomic culture. \n\nThe mezze of beef kafta stands out for the aromatic flavors with which the meat is seasoned. The traditional tabouli is a must at the table to refresh the palate with a light salad between meals. Finally, try the Baklava, a real delicacy made with pistachios and walnuts.\n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.26437840000001,
+        "longitude": -123.0695218
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1820685599.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458287",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458287",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Pacific Poke",
+      "description": "If you want to try a satiating, delicious, and varied dish, Pacific Poke has the perfect gastronomic proposal for you. The restaurant is characterized by offering fresh, varied, and balanced dishes. Its focus on the health of its diners is reflected in the use of high-quality ingredients.\n\nInnovation is an essential part of Pacific Poke's history. Since its creation, the restaurant has become an ally for creative cuisine thanks to the mix of ingredients that create a unique experience.\n\nThe Maui poke is one of the most requested. Its mix of fresh tuna, crab, and shrimp blends perfectly with a corn salsa and pineapple pesto that contrasts the flavor of mango and jalapeño vinegar. Vegetarian and vegan options are available.\n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.2791765,
+        "longitude": -123.1000122
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_604679102.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458288",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458288",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Sura Korean Cuisine",
+      "shortDescription": "Experience the elevated flavors of Sura Korean Cuisine in Vancouver. Traditional meets modern in this sophisticated restaurant. Don't miss the pork dumplings and Sura chicken! Visit their website for more info.",
+      "description": "In the heart of Vancouver is a restaurant that takes Korean cuisine to another level. Since Sura Korean Cuisine opened its doors in 2008, the restaurant has stood out for its sophistication. Sura Korean Cuisine blends a modern aesthetic with the traditional atmosphere of a Korean restaurant. \n\nThe pork dumplings are a perfect starter to begin your gastronomic journey. Continue with the Sura chicken marinated in house sauce. Don't leave without trying one of the traditional local drinks. Korean rice wine is a classic that perfectly accompanies every dish.\n \nFor more information on reservations and prices, check out their official website.",
+      "geoCode": {
+        "latitude": 49.288871,
+        "longitude": -123.131738
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1123090970.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458289",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458289",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "L'Abattoir",
+      "description": "Gastronomic tradition and French techniques are the main pillars of L'Abattoir. The restaurant is located in the heart of Gastown and its elegance makes it one of the most popular in the area. Chef Lee Cooper's approach focuses on highlighting the glamour of French cuisine, which he accompanies with a selection of top-notch wines.\n\nThe chef's tasting menu is perfect for those who wish to sample the best of the restaurant. Beef tartar and duck foie gras open the menu in a combination of fascinating techniques. Pacific oysters with black truffle and garlic butter make up a fresh dish. Rum cake closes the menu with palate-pleasing sweet touches. \n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.2831025,
+        "longitude": -123.1044376
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/captura_de_pantalla_2023-02-02_121254.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458295",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458295",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Shizen Ya",
+      "description": "Shizen Ya is known for offering Japanese food at an affordable price. Their philosophy is based on giving joy to their diners by providing an experience that directly impacts the community. Their service is agile and the ingredients they use are fresh. \n\nThe mango maki reinvents the traditional California maki thanks to the mix of tropical ingredients. The crab maki is coated with organic rice that is mixed with avocado to create a novel dish. The menu has gluten-free and vegetarian options to accommodate all types of dietary restrictions.\n\nFor more information on reservations and pricing, check out their official website.",
+      "geoCode": {
+        "latitude": 49.2633024,
+        "longitude": -123.1291712
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_607751714_1.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458296",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458296",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Chambar",
+      "description": "Chambar's mission is to create a warm atmosphere for its diners to enjoy a menu created with care. The calm and cozy atmosphere reinforces the restaurant's philosophy. The restaurant's influence rescues European and traditional Belgian dishes to highlight the multiculturalism experienced in Vancouver.\n\nThe charcuterie board is a starter that allows you to savor different meats in a single dish. The cheese board is an ideal option for those who want to explore different types of cheese. The Chicago-style steak is accompanied by onion rings, walnuts, truffle mayonnaise, and grilled cheese. The restaurant also offers brunch options in the mornings.\n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.2801271,
+        "longitude": -123.1099351
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1368046067.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458297",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458297",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Virtuous Pie",
+      "description": "Since opening its doors, Virtuous Pie has focused on offering high-quality vegan dishes with delicious flavors. The restaurant was founded by Rob Milne and his sons, who saw the need to create a restaurant that serves vegan dishes without compromising on taste. The design of the restaurant was done by local artists who created an ambiance that perfectly reflects the spirit of the city.\n\nThe cheese and garlic focaccia stands out for its subtle flavor. The 100% vegan pizzas feature a light dough and artisanal cheese made from walnuts. The ultraviolet pizza has pesto, cabbage, tomato, artisan cheese, and caramelized onion for a sweet touch. \n\nFor more information on reservations and prices, check out their official website.",
+      "geoCode": {
+        "latitude": 49.2797367,
+        "longitude": -123.0999337
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_409592185_VPB7yRD.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458298",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458298",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "España",
+      "description": "Spanish food is celebrated in España, a restaurant that attaches importance to preserving the country's long culinary tradition. The restaurant's atmosphere is reminiscent of an old cafe thanks to the long bar that extends inside. Mediterranean gastronomy conquers the place thanks to iconic dishes.\n\nTapas are one of the emblematic dishes of Spanish culture; try the different varieties available in the restaurant. The grilled squid in Galician style is perfect for those who prefer seafood. The grilled pork with chimichurri is also an excellent choice for a main course.\n \nFor more information on reservations and prices, consult the official website.",
+      "geoCode": {
+        "latitude": 49.2880552,
+        "longitude": -123.1404114
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1043179060_s8S9AzW.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458299",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458299",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Ramen Butcher",
+      "description": "The Ramen Dutcher is one of the most successful Japanese restaurants in Vancouver's recent gastronomic scene. The food is made with high-quality ingredients that the restaurant uses to create each of its delicious dishes.\n\nThe thin noodles have different varieties that are combined with the broth with chunks of pork. The ramen is slow-cooked to ensure it has the perfect flavor. Black garlic ramen has strong flavors and a hint of spiciness that makes it irresistible. The ramen with miso soup blends two traditional recipes to create a flavorful dish. \n\nFor more information on reservations and prices, check out their official website.",
+      "geoCode": {
+        "latitude": 49.2786667,
+        "longitude": -123.0987197
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1834868050_rQJwS89.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458303",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458303",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Café Medina",
+      "description": "The best brunch in Vancouver can be found at Café Medina, the perfect place to share with friends or family. The restaurant is located in the Library District and is inspired by Mediterranean and European flavors. The restaurant opened in 2008 and has become one of the most visited places at breakfast time.\n\nThe house frittata mixes eggs with meat, roasted peppers, zucchini, onions, cheddar cheese, and organic potatoes on grilled focaccia. The dish is ample and allows diners to try different preparations. The pastry options are popular for their freshness and crunchiness. Belgian-style waffles are a customer favorite thanks to their soft and delicate batter. Accompany your breakfast with one of the different coffee options available on-site.\n\nFor more information on reservations and prices, check their official website.",
+      "geoCode": {
+        "latitude": 49.280408,
+        "longitude": -123.1168648
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_180241331.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458304",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458304",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Hawksworth",
+      "description": "Hawksworth is an elegant restaurant that allows its diners to enjoy a special time. The restaurant opened in 2011 and has since earned a place as one of the finest restaurants in the city. It has won multiple awards due to its high-quality cuisine.\n\nThe restaurant is located in the Rosewood Hotel Georgia and its menu celebrates Chef David Hawksworth's extensive gastronomic experience. The restaurant uses only the finest quality ingredients and has menus for a variety of occasions. The wagyu beef carpaccio is an exquisite starter. Continue with a steak of venison cooked with pumpkin seeds and hints of cocoa. Finally, try the caramelized apple strudel, a real treat.\n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.283465,
+        "longitude": -123.119031
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1687477141_1.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458305",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458305",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "AnnaLena",
+      "shortDescription": "AnnaLena, a Michelin-starred restaurant, offers refined cuisine in a tranquil atmosphere. Perfect for special occasions or dining on top-notch food.",
+      "description": "AnnaLena's refined and high-quality cuisine has earned the restaurant a Michelin star. Thanks to this, AnnaLena has become one of the locals' favorite places to celebrate special occasions or taste top-notch food.\n\nThe restaurant's tranquil atmosphere allows diners to enjoy the details of the décor while sampling creative dishes. The tasting menu changes regularly, so guests can try different dishes and renewed recipes. \n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.2708117,
+        "longitude": -123.1468222
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1291894360.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458306",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458306",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Ask for Luigi",
+      "shortDescription": "Ask For Luigi in Vancouver offers an intimate space for a casual meal with handmade pasta and a family atmosphere. Enjoy delicious Italian dishes and a wide selection of wines. Visit their website for reservations and prices.",
+      "description": "Ask For Luigi's intimate and quiet space makes it one of the best places for a casual meal in Vancouver. Its family atmosphere creates the perfect atmosphere to accompany the fresh and delicious dishes.\n\nThe restaurant is known for the handmade pasta with which they make their dishes. The hospitality of their service makes diners feel at home and allows them to enjoy a pleasant time. \n\nThe menu reflects the Italian culinary tradition and highlights dishes such as rigatoni Bolognese and panna cotta. Ask for Luigi also offers a wide variety of wines to accompany your meal.\n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.284201,
+        "longitude": -123.0977241
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1590361345_1_IBo1O6v.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458309",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458309",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Havana",
+      "description": "Cuban flavors create an incredible menu in Havana. The restaurant's vibrant energy and tropical ingredients provide diners with new dining experiences. The restaurant is also known for its good service and hospitality.\n\nSpanish rice and avocado tostones are some of the highlights of the menu. Havana highlights the Latin American gastronomic tradition and the cheerful atmosphere will make you have an unforgettable time. \n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.2737344,
+        "longitude": -123.0693075
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1837196752.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458181",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458181",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Vancouver Aquarium",
+      "description": "With over 65,000 animals and 120 world-class exhibits, one unforgettable experience awaits travelers at the Vancouver Aquarium. From the wonders of the Amazon gallery to the fish, jellyfish, and octopus in the Canadian waters area, guests will be delighted.\n\nAs an Ocean Wise initiative, and a non-profit society dedicated to the conservation of aquatic life, the Vancouver Aquarium is the perfect place to visit since it directly contributes to the conservation, education, and research programs for marine protection. \n\nStop by and say hi to the adorable sea otters and harbor seals, see the mesmerizing jellyfish, and enjoy daily sea lion and penguin experiences, as well as the free-roaming animals found in the popular Amazon gallery.\n\nVisit the Treasures of the BC Coast gallery to discover the unique and breathtaking animals that live in BC’s local waters, including ‘Ceph Rogen’ the Pacific Octopus, and immerse in the 4D Experience Theatre with thrilling sensory effects! \n\nFor more information on schedules and prices, consult its official website.",
+      "geoCode": {
+        "latitude": 49.3004876,
+        "longitude": -123.1308774
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_673642414.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458190",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458190",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Vancouver Art Gallery",
+      "shortDescription": "Discover the Vancouver Art Gallery, a hub of groundbreaking exhibitions and over 12,000 artworks. From historical masters to contemporary visionaries, explore a century's worth of Canadian and international art in the heart of Robson Street.",
+      "description": "Discover the power of art with a visit to the Vancouver Art Gallery, one of North America’s most exciting and innovative visual arts institutions with over 12,000 works of art in its collections representing the most comprehensive resource for visual culture in British Columbia. \n\nWith ground-breaking exhibitions and selections in its permanent collection, and outstanding examples of a century’s worth of art, from 19th-century mountain and coastal landscapes to recent photo-based artworks by renowned Vancouver artists, the Vancouver Art Gallery represents an opportunity to meditate on more than a century's worth of Canadian and international art, from historical masters to contemporary visionaries.\n\nLocated in the thick of Robson Street’s hustle-and-bustle, this museum is the perfect place to spend an afternoon exploring photographs by masters such as Ansel Adams, as well as important works by Emily Carr and other respected British Columbian artists.",
+      "geoCode": {
+        "latitude": 49.2830077,
+        "longitude": -123.1208179
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/vancouver_art_gallery.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458220",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458220",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Zach Bryan and Matt Maeson",
+      "geoCode": {
+        "latitude": 49.27766120000002,
+        "longitude": -123.10810739999968
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/800px-2-11-2018-_andrea_motis__joan_chamorro_quintet-1_48597630236.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458259",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458259",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "INFEKT",
+      "geoCode": {
+        "latitude": 49.28416,
+        "longitude": -123.1113488
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_8.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458260",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458260",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Koven",
+      "geoCode": {
+        "latitude": 49.28416,
+        "longitude": -123.1113488
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1152782045.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458261",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458261",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Passenger",
+      "description": "Mike Rosenberg, known better as Passenger, is a British singer/songwriter quickly impacting the folk-rock scene with his earnest and introspective lyrics. Passenger was formerly a band fronted by Rosenberg that released a number of albums before the band members parted ways. Rosenberg continued with the name, and his latest release, All the Little Lights, is a folk-rock, indie-pop album filled with songs of loss, love, and hope. Critics have praised Rosenberg for his charming and unique voice, poignant yet witty lyrics, and an album that feels fleshed out with additional strings, brass, and restrained percussion. Storming up the Billboard Hot 100, the single “Let Her Go” is a charming, whimsical, and lyrically remorseful song about a relationship in retrospect. Rosenberg supported fellow Englishman Ed Sheeran for most of 2012 before embarking on his first US headlining tour in summer 2013. Concertgoers applaud Rosenberg for his intimate one-man-band shows, raw talent, and charming banter. With tickets selling out for shows across Europe and Australia, fans anticipate an unfaltering music career ahead for this talented singer/songwriter.",
+      "geoCode": {
+        "latitude": 49.2800806,
+        "longitude": -123.1204164
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/taxonomy/img_concert_6_sLRC3Cn.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458263",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458263",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Sierra Ferrell",
+      "geoCode": {
+        "latitude": 49.2800806,
+        "longitude": -123.1204164
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/sierra_ferrell_performs_in_vancouver_in_2022.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458271",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458271",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Nox Vahn",
+      "geoCode": {
+        "latitude": 49.266409,
+        "longitude": -123.111524
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/ha_ash_movistar_arena_03-06-2018_20.jpeg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458274",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458274",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Robert Plant & Alison Krauss and JD McPherson",
+      "description": "\"These are songs that have gone into our hearts way back in time, but got lost in the twists and curves of the passing years,\" says Robert Plant. \"You hear them and you go 'Man, listen to that song, we got to sing that song!' It's a vacation, really--the perfect place to go that you least expected to find.\"\r\n\r\nIn 2007, Plant and Alison Krauss released Raising Sand, one of the most acclaimed albums of the 21st Century. It was an unlikely, mesmerizing pairing of one of rock's greatest frontmen with one of country music's finest and most honored artists, produced by the legendary T Bone Burnett. It entered the Billboard 200 at Number Two and was certified platinum, and it won six Grammy awards, including both Album and Record of the Year.\r\n\r\nAfter fourteen years, the two icons reunited with Raise the Roof. Earning three 2023 Grammy nominations and unanimous acclaim, these dozen songs have extended this remarkable collaboration in thrilling new directions - from performances on the illustrious stages of Bonnaroo, Forest Hills Stadium, Glastonbury, the Greek Theatre, Red Rocks and far beyond, to appearances on The Late Show with Stephen Colbert, The Tonight Show Starring Jimmy Fallon, CBS Mornings, PBS NewsHour, CMT Crossroads and more, to 2024's Can't Let Go Tour, which will see the duo once again return to North America for nearly 40 dates this spring and summer.\r\n\r\nWith Raise the Roof, Plant and Krauss were determined not to simply replicate a formula. \"We wanted it to move,\" says Krauss. \"We brought other people in, other personalities within the band and coming back together again in the studio brought a new intimacy to the harmonies.\"\r\n\r\nThe duo's intention had always been to continue the momentum of Raising Sand. \"There was so much enthusiasm, excitement and adrenaline that it would have been folly if we didn't keep going,\" says Plant. \"We did join up and consider songs, try to work out some ideas, but then somebody would ask if I'd want to take my band to the Arctic Circle--'OK, I'll do that, call you back, Alison!' And then she goes off and gets another Grammy. We've both constantly made new recordings.\r\n\r\n\"I knew what we could share. In the length of time that I've been making records, this is very rewarding, but a very unusual place to find myself.\"\r\n\r\nIn fact, the two singers were stockpiling ideas for songs they might do together, and passing selections back and forth, during the intervening years. \"I've heard Lucinda Williams sing 'Can't Let Go' forever, and I sent that to Robert at least ten years ago,\" says Krauss. \"I remember riding around listening to it and thinking it would be so much fun to do together.\"\r\n\r\nPlant had his eyes on a couple of R&B deep cuts. \"The Betty Harris song 'Trouble With My Lover' was always in the air,\" he says. \"To hear Alison sing that is such a great way of her turning her gift around. And Bobby Moore's 'Searching for My Love' is something I used to sing at school, another nugget of beautiful lost soul music which has been ricocheting between us for a long time.\"\r\n\r\nWhen they were finally able to reconvene in Nashville in late 2019, Plant admits that it was \"kind of daunting.\" After all, when they first met up, there were no expectations; \"When we started, Robert had said that if it didn't work, we'll try it for three days and say goodbye,\" says Krauss. But this time, they not only had to clear the bar of their own magnificent careers, they also had the success of Raising Sand to contend with. Once they got rolling, though, Krauss says the recordings felt \"very natural, very easy--and really fun.\"\r\n\r\nFor his part, Plant wanted to introduce a musical tradition that was part of his own culture. \"I've been a big follower of Bert Jansch's work since I was a teenager,\" he says, \"and of that whole Irish, Scottish, English folk style that has a different lilt and different lyrical perspective. I was very keen to bring some of that into the picture.\"\r\n\r\n\"One of my favorite parts of this is the songs and songwriters that I had never heard of \" says Krauss, noting that in addition to the inclusion of Jansch's \"It Don't Bother Me,\" she feels the \"peak of the record\" comes with \"Go Your Way\" by English folk singer Anne Briggs. \"Working with Robert, and with T Bone, is always a great education in musical history.\"\r\n\r\nThe material on the album encompasses compositions by writers as diverse as Merle Haggard (\"Going Where the Lonely Go\") and the mysterious blueswoman Geeshie Wiley (\"Last Kind Words Blues\")--and even a Plant-Burnett original, \"High and Lonesome\"--in arrangements even more evocative, spare, and hypnotic than those on Raising Sand. In addition to the core band of ace musicians assembled by Burnett, including drummer Jay Bellerose and guitarist Marc Ribot on all tracks, there are appearances from such guests as David Hidalgo from Los Lobos, jazz wizard Bill Frisell, and the eternal Buddy Miller.\r\n\r\nBoth Plant and Krauss point to the recording of \"Quattro (World Drifts In),\" a song by the beloved Americana band Calexico, as a turning point in the Raise the Roof sessions. \"When I heard the song for the first time, it came in the group of songs Robert sent me as possibilities he liked as ideas for us to record,\" says Krauss. \"I thought, 'Oh gosh, here we go'--hearing that song was the moment I knew we'd make another album.\"\r\n\r\n\"It's time to think about walking on the stage again and having that feeling of being just a little bit nervous,\" says Plant. \"And that's really the thing that we both live for--that walk from the side of the stage to the microphone. That's the longest journey, because it lasts a lifetime.\"\r\n\r\nThe accomplishments of Robert Plant and Alison Krauss, of course, are immeasurable. But with Raise the Roof, they take the next step in a project that offers them creative rewards unlike anything else. \"There's so much romance in contrast,\" says Krauss.\r\n\r\n\"It's such a far cry from everything I've done before,\" says Plant. \"I love the whole kaleidoscope of music that I've explored, but this is a place where you can think within the song, you can decide how to bring home an emotion. It's another blend that we've got, and long may we have more of them.\"",
+      "geoCode": {
+        "latitude": 49.2800254,
+        "longitude": -123.1126025
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1527700586.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458276",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458276",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Norah Jones",
+      "description": "With her unique blend of Pop,Jazz and Country, Norah Jones has made a career for herself that rivals that of her legendary father.\r\n    \r\n  \r\n    \r\n      Born in New York in 1979, she is the daughter of legendary Sitar performer and friend of The Beatles Ravi Shankar who obviously passed down some of his immense musical talent. A fan of Jazz from an early age, she went on to attend the University of North Texas, majoring in Jazz Piano and meeting future musical partner, Jesse Harris along the way.\r\n      She soon headed back to New York and was picked up by legendary Jazz Label ‘Blue Note Records’ who released her first album ‘Come Away With Me’ in 2002. It was a huge critical and commercial success, eventually hitting number one in the Billboard Charts before earning Grammy Awards for, amongst others, Album and Record of the year.\r\n      The success of her follow up ‘Feels Like Home’ earned her, not only a place atop the Billboard charts once again, but a spot on Time Magazine’s list of ‘Most Influential People of 2004’. And of course it picked up a few more Grammy awards along the way.\r\n      Her successes continued with the release of each subsequent album, even when she broke from her regular formula such as in the case of ‘…Featuring’, a compilation of numerous collaborations with the likes of the Foo Fighters and Outkast.\r\n      Norah has made a career for herself that carries on the rich musical heritage bestowed upon her from her father and shows no signs of slowing up anytime soon.",
+      "geoCode": {
+        "latitude": 49.2800254,
+        "longitude": -123.1126025
+      },
+      "price": {
+        "currencyCode": "CAD"
+      },
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_2030114549.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458280",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458280",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Paco Versailles",
+      "geoCode": {
+        "latitude": 49.280513,
+        "longitude": -123.1007643
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_1132557947.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458281",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458281",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Alexandra Stréliski",
+      "geoCode": {
+        "latitude": 49.2630291,
+        "longitude": -123.1762853
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/event/shutterstock_92564131.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458283",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458283",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Vij's",
+      "description": "Vij's transforms Indian cuisine and modernizes it through the local flavors and sustainable ingredients it uses in its cuisine. The restaurant was founded in 1994 and has since become an emblem of Indian cuisine in Vancouver.\n\nThanks to the high quality of its dishes, it was recognized with the Michelin Bib Gourmand award in 2022. Throughout its experience, it has won numerous times the Vancouver Magazine Restaurant Award and has been mentioned in media such as the New York Times.\n\nThe portobello garam masala with curry cream is a starter that explores different textures and flavors to give you an unforgettable multi-sensory experience. Do not miss the rice pudding, a dessert that will transport you to the heart of India.\n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.2575375,
+        "longitude": -123.1147883
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_566942659_1.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458284",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458284",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Le Crocodile",
+      "description": "Le Crocodile's proposal highlights the best culinary techniques of French cuisine. Chef Michael Jacob was inspired by his famous restaurant in Strasbourg. He created a space with the same quality that has earned him three Michelin stars in his country. Together with chef Emile Jung, he made a refined menu that brings culinary tradition to Vancouver.\n\nSince its opening, the restaurant has offered the best French dishes. The foie-gras duo is a glamorous starter that will make you taste two different presentations of this appetizing dish. The tempura lobster with escalopes is also a highlight. Vegetarian and gluten-free options are also available on the menu.\n\nFor more information on reservations and prices, check their official website.",
+      "geoCode": {
+        "latitude": 49.2825301,
+        "longitude": -123.1252212
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_215526517.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458291",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458291",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Maenam",
+      "description": "In the heart of Kitsilano, Maenam offers a family-friendly atmosphere featuring Thai street food. Fresh, seasonal ingredients make up a menu that showcases some of the most iconic dishes of Asian cuisine.\n\nAccording to Thai tradition, food is best enjoyed when it is shared. Thus, Maenam proposes a menu that allows you to try different flavors and make each dish the perfect accompaniment to a gathering. The seafood soup is part of the lunch menu and offers marine flavors that are complemented by fresh basil. Curries are also a featured option on the menu. Vegetarian and gluten-free options are available at the restaurant.\n\nFor more information on reservations and prices, consult their official website.",
+      "geoCode": {
+        "latitude": 49.2679586,
+        "longitude": -123.1489132
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_2153547093.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458293",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458293",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Suika",
+      "description": "Japanese cuisine is Suika's specialty. The restaurant follows the Asian tradition in order to offer dishes full of history. The setting of Suika is reminiscent of the oriental tradition thanks to the details that adorn the place. Its attentive service stands out thanks to the experience they give to each diner who visits the restaurant.\n\nSashimi is one of Suika's most representative dishes. The Poseidon Sashimi highlights the flavors of the sea in a fresh and delicious dish. If you want to try many more flavors, the sushi box they offer will allow you to choose different rolls to taste the different preparations. \n\nFor more information about reservations and prices, check their official website.",
+      "geoCode": {
+        "latitude": 49.2634905,
+        "longitude": -123.1416794
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_606590933_FHtwdwT.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "6458302",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/6458302",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Aperture Coffee Bar",
+      "description": "Art, design, and gastronomy welcome you to Aperture Coffee Bar. This coffee bar offers a quiet and cozy space for its customers. Its first-class ingredients are used to create some of the classic pastry dishes. The wide variety of coffee they offer makes it a paradise.\n\nThe Ginger Root is a coffee classic thanks to its subtlety. The London Fog is a more daring bet. Its blend of tea with coffee and milk gives it the perfect smoothness and mixes the best of both hot beverages. For tea lovers, there are also different herbal, black, green, and fruity tea alternatives.\n \nFor more information on reservations and prices, check out their official website.",
+      "geoCode": {
+        "latitude": 49.2632888,
+        "longitude": -123.1104802
+      },
+      "price": {},
+      "pictures": [
+        "https://cdn.smartvel.com/ccpictures/shutterstock_1653429988.jpg"
+      ],
+      "minimumDuration": ""
+    },
+    {
+      "type": "activity",
+      "id": "3546133",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/shopping/activities/3546133",
+        "methods": [
+          "GET"
+        ]
+      },
+      "name": "Gastown the origins of Vancouver (Available in English)",
+      "description": "<p><strong>WELCOME TO VANCOUVER.<br></strong><br> Vancouver is a unique city where you will love to lose yourself in its beautiful streets and photograph its historic buildings and landscapes, so you can relax with a coffee in one of its old cafes in Gastown or cycle through Stanley Park, known as its vibrant oasis. city.<br><br> On our tour of Gastown, you'll discover the origins of the city of Vancouver and this iconic neighborhood, named the fourth most fashionable neighborhood in the world.<br><br> We'll explore the alleys where shadowy activities took place during prohibition, as well as historic buildings from the early 20th century.<br><br> Immerse yourself in our tour of the history of this young city and make the most of your stay in Vancouver by learning the history in the best possible way with a local guide.<br> https://youtu.be/AMT2keUCswE<br> <strong><br>IMPORTANT INFORMATION.<br> A minimum attendance of 4 people is required to run the tour.<br><br> If your reservation is last minute we recommend you contact us</strong></p><p>Free tour: Book for free and pay what you want at the end</p>",
+      "geoCode": {
+        "latitude": 49.283316,
+        "longitude": -123.104245
+      },
+      "rating": "4.2",
+      "price": {
+        "amount": "0.0"
+      },
+      "pictures": [
+        "https://d1i21eq0w7p1n3.cloudfront.net/g4phjk4vzxhc1jsz7alsycnbwpl0",
+        "https://d1i21eq0w7p1n3.cloudfront.net/pwxulwhq55vi6tcriewc0or2e4er",
+        "https://d1i21eq0w7p1n3.cloudfront.net/btd4gn2rp2enxr055dsi2p7qlkqr",
+        "https://d1i21eq0w7p1n3.cloudfront.net/g2k7kdl8obkioowsk3gznn5xgyyn",
+        "https://d1i21eq0w7p1n3.cloudfront.net/ifrdhnjae15u93fmz2m3ffqddbdn"
+      ],
+      "bookingLink": "https://www.guruwalk.com/walks/11491-gastown-the-origins-of-vancouver?ref=ojlgpuf3oo1nuk2s74m5",
+      "minimumDuration": "1 hour 15 minutes"
+    }
+  ]
+}

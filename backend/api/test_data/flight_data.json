@@ -1,0 +1,1191 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1733876492702,
+  "data": {
+    "session": {
+      "searchHash": "fbd3327d24a32f6092f5a4e5883bbb60",
+      "pageLoadUid": "2d815697-d93a-4d01-b492-90babaaf26cc",
+      "searchId": "2503ae4f-e6ec-41bb-bc92-fb6bfd1473fb.43",
+      "filterSettings": {
+        "aa": "",
+        "tt": "",
+        "a": "",
+        "d": "",
+        "ns": "1",
+        "cos": "0",
+        "al": "",
+        "fq": "",
+        "ft": "",
+        "sid": "",
+        "oc": "",
+        "plp": "",
+        "mc": "",
+        "da": "",
+        "pRange": "-1,-1",
+        "ca": ""
+      }
+    },
+    "complete": false,
+    "numOfFilters": 4,
+    "totalNumResults": 571,
+    "flights": [
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "IAH",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "YVR",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-27T09:48:00-06:00",
+                "arrivalDateTime": "2024-12-27T12:50:00-08:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "AC",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Boeing 737-900",
+                "amenities": [],
+                "flightNumber": 5592,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 3172.4905,
+                "isInternational": true,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8728998,
+                  "code": "AC",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AirCanada.png",
+                  "displayName": "Air Canada"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|25",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 933.2,
+            "totalPricePerPassenger": 466.6,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Basic Economy",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "ticketChangeFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|25&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=466.6"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|26",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 986.96,
+            "totalPricePerPassenger": 493.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Standard",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|26&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=493.48"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|27",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1169.7,
+            "totalPricePerPassenger": 584.85,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Flex",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|27&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=584.85"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|28",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1709.36,
+            "totalPricePerPassenger": 854.68,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business Lowest",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|28&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=854.68"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|29",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 2272.66,
+            "totalPricePerPassenger": 1136.33,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business Flexible",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": -1,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|29&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=1136.33"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|30",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 2846.7,
+            "totalPricePerPassenger": 1423.35,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Latitude",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|30&area=FLTCenterColumn|0|1|ItinList|3|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=1423.35"
+          }
+        ],
+        "itineraryTag": {
+          "tag": "Best Value",
+          "type": "BEST_VALUE"
+        }
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "IAH",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "YVR",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-27T09:48:00-06:00",
+                "arrivalDateTime": "2024-12-27T12:50:00-08:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Boeing 737-900",
+                "amenities": [],
+                "flightNumber": 245,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 3172.4905,
+                "isInternational": true,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|3|17",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 933.2,
+            "totalPricePerPassenger": 466.6,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Basic Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": false,
+                "carryonFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "ticketChangeAllowed": false,
+                "ticketChangeFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "upgradeAvailable": false,
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|3|17&area=FLTCenterColumn|0|1|ItinList|4|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=466.6"
+          },
+          {
+            "purchaseLinkId": "Kayak|6|16",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 986.96,
+            "totalPricePerPassenger": 493.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|6|16&area=FLTCenterColumn|0|1|ItinList|4|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=493.48"
+          },
+          {
+            "purchaseLinkId": "Kayak|5|6",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1771.7,
+            "totalPricePerPassenger": 885.85,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business/First",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|5|6&area=FLTCenterColumn|0|1|ItinList|4|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=885.85"
+          }
+        ],
+        "itineraryTag": {
+          "tag": "Best Value",
+          "type": "BEST_VALUE"
+        }
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "IAH",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "YVR",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-27T16:25:00-06:00",
+                "arrivalDateTime": "2024-12-27T19:23:00-08:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "AC",
+                "operatingCarrierCode": "AC",
+                "equipmentId": "Boeing 737 MAX 8",
+                "amenities": [],
+                "flightNumber": 1301,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 3172.4905,
+                "isInternational": true,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8728998,
+                  "code": "AC",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AirCanada.png",
+                  "displayName": "Air Canada"
+                },
+                "marketingCarrier": {
+                  "locationId": 8728998,
+                  "code": "AC",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AirCanada.png",
+                  "displayName": "Air Canada"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|42",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1040.7,
+            "totalPricePerPassenger": 520.35,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Basic Economy",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "ticketChangeFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|42&area=FLTCenterColumn|0|1|ItinList|2|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=520.35"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|43",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1094.46,
+            "totalPricePerPassenger": 547.23,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Standard",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|43&area=FLTCenterColumn|0|1|ItinList|2|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=547.23"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|44",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1277.2,
+            "totalPricePerPassenger": 638.6,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Flex",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|44&area=FLTCenterColumn|0|1|ItinList|2|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=638.6"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|45",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1395.46,
+            "totalPricePerPassenger": 697.73,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Comfort",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|45&area=FLTCenterColumn|0|1|ItinList|2|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=697.73"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|46",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1771.7,
+            "totalPricePerPassenger": 885.85,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business Lowest",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|46&area=FLTCenterColumn|0|1|ItinList|2|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=885.85"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|47",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 2309.2,
+            "totalPricePerPassenger": 1154.6,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business Flexible",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": -1,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|47&area=FLTCenterColumn|0|1|ItinList|2|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=1154.6"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|48",
+            "providerId": "Air Canada",
+            "partnerSuppliedProvider": {
+              "id": "AC",
+              "displayName": "Air Canada",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AC.png?crop=false&width=166&height=62&fallback=default1.png&_v=981d6d7773e2f5f4c220ceceb969425b"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 2846.7,
+            "totalPricePerPassenger": 1423.35,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Latitude",
+              "carrierCode": "AC"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|2|48&area=FLTCenterColumn|0|1|ItinList|2|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=1423.35"
+          }
+        ],
+        "itineraryTag": {
+          "tag": "Shortest",
+          "type": "SHORTEST"
+        }
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "IAH",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "YVR",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-27T16:25:00-06:00",
+                "arrivalDateTime": "2024-12-27T19:23:00-08:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "AC",
+                "equipmentId": "Boeing 737 MAX 8",
+                "amenities": [],
+                "flightNumber": 6621,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 3172.4905,
+                "isInternational": true,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8728998,
+                  "code": "AC",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AirCanada.png",
+                  "displayName": "Air Canada"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|3|16",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1040.7,
+            "totalPricePerPassenger": 520.35,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Basic Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": false,
+                "carryonFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "PRESENT",
+                  "feeValue": -1
+                },
+                "ticketChangeAllowed": false,
+                "ticketChangeFeeObj": {
+                  "feeType": "UNKNOWN",
+                  "feeValue": -1
+                },
+                "upgradeAvailable": false,
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|3|16&area=FLTCenterColumn|0|1|ItinList|5|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=520.35"
+          },
+          {
+            "purchaseLinkId": "Kayak|6|18",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1094.46,
+            "totalPricePerPassenger": 547.23,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|6|18&area=FLTCenterColumn|0|1|ItinList|5|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=547.23"
+          },
+          {
+            "purchaseLinkId": "Kayak|5|5",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1879.2,
+            "totalPricePerPassenger": 939.6,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business/First",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [
+                  0
+                ]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=fbd3327d24a32f6092f5a4e5883bbb60&provider=Kayak|5|5&area=FLTCenterColumn|0|1|ItinList|5|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=939.6"
+          }
+        ],
+        "itineraryTag": {
+          "tag": "Shortest",
+          "type": "SHORTEST"
+        }
+      }
+    ]
+  }
+}

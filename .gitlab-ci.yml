@@ -1,0 +1,39 @@
+image: docker:latest # Use the official Docker image
+
+services:
+  - docker:dind # Enable Docker-in-Docker
+
+variables:
+  DOCKER_HOST: tcp://docker:2375 # Ensure Docker communicates with the service
+  DOCKER_TLS_CERTDIR: "" # Disable TLS for simplicity
+
+before_script:
+  - apk add --no-cache docker-compose # Install docker-compose in the runner
+  - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" "$CI_REGISTRY"
+
+backend-test:
+  stage: test
+  variables:
+    CI: "true"
+    AMADEUS_CLIENT_ID: "test_id"
+    AMADEUS_CLIENT_SECRET: "test_secret"
+    DJANGO_SETTINGS_MODULE: "backend.settings"
+  script:
+    - docker build -t $CI_REGISTRY_IMAGE:backend-latest ./backend
+    - docker push $CI_REGISTRY_IMAGE:backend-latest
+    - docker-compose up -d backend
+    - sleep 10
+    - docker exec TP-backend python manage.py migrate
+    - docker exec TP-backend python manage.py test
+    - docker-compose down
+
+frontend-test:
+  stage: test
+  script:
+    - docker build -t $CI_REGISTRY_IMAGE:frontend-latest ./frontend
+    - docker push $CI_REGISTRY_IMAGE:frontend-latest
+    - docker-compose up -d frontend
+    - sleep 5
+    - docker exec TP-frontend npm install
+    - docker exec TP-frontend npm test -- --run
+    - docker-compose down

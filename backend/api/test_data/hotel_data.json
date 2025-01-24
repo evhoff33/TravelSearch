@@ -1,0 +1,1011 @@
+{
+    "data": [
+    {
+      "chainCode": "HI",
+      "iataCode": "YVR",
+      "dupeId": 700039747,
+      "name": "HOLIDAY INN CENTRE - BROADWAY",
+      "hotelId": "HIYVR6F0",
+      "geoCode": {
+        "latitude": 49.26329,
+        "longitude": -123.12021
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 0.52,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:47"
+    },
+    {
+      "chainCode": "WV",
+      "iataCode": "YVR",
+      "dupeId": 700089999,
+      "name": "CITY CENTRE MOTOR HOTEL",
+      "hotelId": "WVYVR024",
+      "geoCode": {
+        "latitude": 49.26626,
+        "longitude": -123.1013
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 1.09,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:08:38"
+    },
+    {
+      "chainCode": "BW",
+      "iataCode": "YVR",
+      "dupeId": 700048426,
+      "name": "BEST WESTERN PLUS UPTOWN HOTEL",
+      "hotelId": "BWYVR111",
+      "geoCode": {
+        "latitude": 49.2619,
+        "longitude": -123.0967
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 1.25,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:43"
+    },
+    {
+      "chainCode": "WV",
+      "iataCode": "YVR",
+      "dupeId": 700046401,
+      "name": "GRANVILLE ISLAND HOTEL",
+      "hotelId": "WVYVRGRA",
+      "geoCode": {
+        "latitude": 49.26971,
+        "longitude": -123.13192
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 1.63,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:18:35"
+    },
+    {
+      "chainCode": "HX",
+      "iataCode": "YVR",
+      "dupeId": 700019902,
+      "name": "HAMPTON STES DWNTWN VANCOUVER",
+      "hotelId": "HXYVR111",
+      "geoCode": {
+        "latitude": 49.2781,
+        "longitude": -123.113
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 1.91,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:16"
+    },
+    {
+      "chainCode": "WV",
+      "iataCode": "YVR",
+      "dupeId": 700222682,
+      "name": "HOTEL BLU VANCOUVER",
+      "hotelId": "WVYVR273",
+      "geoCode": {
+        "latitude": 49.27819,
+        "longitude": -123.11465
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 1.92,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:10:13"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700015949,
+      "name": "ROSEDALE ON ROBSON SUITE HOTEL",
+      "hotelId": "YXYVRROS",
+      "geoCode": {
+        "latitude": 49.27833,
+        "longitude": -123.11621
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 1.95,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:47"
+    },
+    {
+      "chainCode": "BW",
+      "iataCode": "YVR",
+      "dupeId": 700005369,
+      "name": "BEST WESTERN PLUS DWNTN VANCVR",
+      "hotelId": "BWYVR092",
+      "geoCode": {
+        "latitude": 49.2755,
+        "longitude": -123.129
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 1.96,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:43"
+    },
+    {
+      "chainCode": "RA",
+      "iataCode": "YVR",
+      "dupeId": 700011582,
+      "name": "RAMADA VANCOUVER DOWNTOWN",
+      "hotelId": "RAYVR832",
+      "geoCode": {
+        "latitude": 49.27691,
+        "longitude": -123.12652
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:01"
+    },
+    {
+      "chainCode": "CI",
+      "iataCode": "YVR",
+      "dupeId": 700015947,
+      "name": "COMFORT INN DOWNTOWN",
+      "hotelId": "CIYVR393",
+      "geoCode": {
+        "latitude": 49.2776,
+        "longitude": -123.125
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.02,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:44"
+    },
+    {
+      "chainCode": "HJ",
+      "iataCode": "YVR",
+      "dupeId": 700008449,
+      "name": "HOJO VANCOUVER DOWNTOWN",
+      "hotelId": "HJYVR690",
+      "geoCode": {
+        "latitude": 49.27739,
+        "longitude": -123.12583
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.03,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:31"
+    },
+    {
+      "chainCode": "PS",
+      "iataCode": "YVR",
+      "dupeId": 700012290,
+      "name": "SANDMAN HOTEL VANCOUVER CITY CENTRE",
+      "hotelId": "PSYVR003",
+      "geoCode": {
+        "latitude": 49.27918,
+        "longitude": -123.11292
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.03,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:48"
+    },
+    {
+      "chainCode": "BW",
+      "iataCode": "YVR",
+      "dupeId": 700031051,
+      "name": "BW PLUS CHATEAU GRANVILLE HTL",
+      "hotelId": "BWYVR046",
+      "geoCode": {
+        "latitude": 49.2783,
+        "longitude": -123.123
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.04,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-05-09T12:13:57"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700058827,
+      "name": "EXECUTIVE HOTEL VINTAGE PARK",
+      "hotelId": "YXYVR008",
+      "geoCode": {
+        "latitude": 49.27615,
+        "longitude": -123.13025
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.07,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:17"
+    },
+    {
+      "chainCode": "WI",
+      "iataCode": "YVR",
+      "dupeId": 700051731,
+      "name": "WESTIN GRAND VANCOUVER",
+      "hotelId": "WIYVRGRA",
+      "geoCode": {
+        "latitude": 49.27967,
+        "longitude": -123.11717
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.1,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:01"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700090000,
+      "name": "MODA HOTEL",
+      "hotelId": "YXYVR537",
+      "geoCode": {
+        "latitude": 49.27946,
+        "longitude": -123.12045
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.12,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:02"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700120229,
+      "name": "910 BEACH APT HOTEL",
+      "hotelId": "YXYVRTMB",
+      "geoCode": {
+        "latitude": 49.27542,
+        "longitude": -123.13325
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.14,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:49"
+    },
+    {
+      "chainCode": "HI",
+      "iataCode": "YVR",
+      "dupeId": 700008270,
+      "name": "HOLIDAY INN-VANCOUVER DOWNTOWN",
+      "hotelId": "HIYVRF3D",
+      "geoCode": {
+        "latitude": 49.27862,
+        "longitude": -123.12594
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.15,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:00"
+    },
+    {
+      "chainCode": "DE",
+      "iataCode": "YVR",
+      "dupeId": 700006648,
+      "name": "DELTA VANCOUVER SUITES",
+      "hotelId": "DEYVRDVS",
+      "geoCode": {
+        "latitude": 49.2803,
+        "longitude": -123.115
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.16,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:59"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700079097,
+      "name": "LHERMITAGE HOTEL",
+      "hotelId": "YXYVRLHH",
+      "geoCode": {
+        "latitude": 49.28039,
+        "longitude": -123.1172
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.18,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:41:56"
+    },
+    {
+      "chainCode": "RC",
+      "iataCode": "YVR",
+      "dupeId": 700043305,
+      "name": "RESIDENCE INN BY MARRIOTT VANCOUVER DWTN",
+      "hotelId": "RCYVRDRR",
+      "geoCode": {
+        "latitude": 49.27804,
+        "longitude": -123.12876
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.19,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-11-18T06:01:34"
+    },
+    {
+      "chainCode": "XT",
+      "iataCode": "YVR",
+      "dupeId": 700158961,
+      "name": "THE BURRARD HOTEL",
+      "hotelId": "XTYVRBUR",
+      "geoCode": {
+        "latitude": 49.27968,
+        "longitude": -123.12763
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.31,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T11:04:51"
+    },
+    {
+      "chainCode": "SI",
+      "iataCode": "YVR",
+      "dupeId": 700012654,
+      "name": "SHERATON VANCOUVER WALL CENTRE",
+      "hotelId": "SIYVR709",
+      "geoCode": {
+        "latitude": 49.2809,
+        "longitude": -123.125
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.36,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-09-23T06:05:43"
+    },
+    {
+      "chainCode": "XT",
+      "iataCode": "YVR",
+      "dupeId": 501456724,
+      "name": "THE VICTORIAN HOTEL",
+      "hotelId": "XTYVRVIC",
+      "geoCode": {
+        "latitude": 49.28248,
+        "longitude": -123.11206
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.4,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:57:54"
+    },
+    {
+      "chainCode": "WB",
+      "iataCode": "YVR",
+      "dupeId": 700039736,
+      "name": "WEDGEWOOD HOTEL AND SPA",
+      "hotelId": "WBYVRW06",
+      "geoCode": {
+        "latitude": 49.28206,
+        "longitude": -123.12257
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.44,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:11:31"
+    },
+    {
+      "chainCode": "IQ",
+      "iataCode": "YVR",
+      "dupeId": 700013300,
+      "name": "CENTURY PLAZA HOTEL AND SPA",
+      "hotelId": "IQYVR131",
+      "geoCode": {
+        "latitude": 49.28102,
+        "longitude": -123.12733
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.44,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:29:34"
+    },
+    {
+      "chainCode": "RA",
+      "iataCode": "YVR",
+      "dupeId": 700045354,
+      "name": "RAMADA LIMITED VANCOUVER DOWNT",
+      "hotelId": "RAYVR937",
+      "geoCode": {
+        "latitude": 49.28296,
+        "longitude": -123.11213
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.46,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:29"
+    },
+    {
+      "chainCode": "WV",
+      "iataCode": "YVR",
+      "dupeId": 700015950,
+      "name": "ST. REGIS HOTEL",
+      "hotelId": "WVYVR021",
+      "geoCode": {
+        "latitude": 49.28313,
+        "longitude": -123.11561
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.48,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:08:54"
+    },
+    {
+      "chainCode": "FS",
+      "iataCode": "YVR",
+      "dupeId": 700007497,
+      "name": "FOUR SEASONS VANCOUVER",
+      "hotelId": "FSYVR506",
+      "geoCode": {
+        "latitude": 49.28297,
+        "longitude": -123.11879
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.48,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:16"
+    },
+    {
+      "chainCode": "RW",
+      "iataCode": "YVR",
+      "dupeId": 700006393,
+      "name": "ROSEWOOD HOTEL GEORGIA",
+      "hotelId": "RWYVRHGV",
+      "geoCode": {
+        "latitude": 49.28332,
+        "longitude": -123.11931
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.52,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:12:02"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700090001,
+      "name": "SUNSET INN AND SUITES",
+      "hotelId": "YXYVR111",
+      "geoCode": {
+        "latitude": 49.28014,
+        "longitude": -123.13245
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.53,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:47"
+    },
+    {
+      "chainCode": "HS",
+      "iataCode": "YVR",
+      "dupeId": 700090006,
+      "name": "LA GRANDE RESIDENCE",
+      "hotelId": "HSYVRAGN",
+      "geoCode": {
+        "latitude": 49.28276,
+        "longitude": -123.12367
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.53,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:37:42"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700039738,
+      "name": "THE SUTTON PLACE HOTEL-VANCOUV",
+      "hotelId": "YXYVRVAN",
+      "geoCode": {
+        "latitude": 49.28281,
+        "longitude": -123.12346
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.53,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:02"
+    },
+    {
+      "chainCode": "PH",
+      "iataCode": "YVR",
+      "dupeId": 700031438,
+      "name": "METROPOLITAN HOTEL VANCOUVER",
+      "hotelId": "PHYVRMET",
+      "geoCode": {
+        "latitude": 49.28375,
+        "longitude": -123.11807
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.56,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:29"
+    },
+    {
+      "chainCode": "PS",
+      "iataCode": "YVR",
+      "dupeId": 700031049,
+      "name": "SANDMAN SUITES VANCOUVER-DAVIE",
+      "hotelId": "PSYVR222",
+      "geoCode": {
+        "latitude": 49.28113,
+        "longitude": -123.13248
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.62,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:48"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700030262,
+      "name": "EXECUTIVE HOTEL LE SOLEIL",
+      "hotelId": "YXYVR654",
+      "geoCode": {
+        "latitude": 49.2853,
+        "longitude": -123.11829
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.73,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:12:50"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700090002,
+      "name": "CARMANA PLAZA",
+      "hotelId": "YXYVR040",
+      "geoCode": {
+        "latitude": 49.28571,
+        "longitude": -123.12497
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.87,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:47"
+    },
+    {
+      "chainCode": "SG",
+      "iataCode": "YVR",
+      "dupeId": 700081089,
+      "name": "SHANGRI LA VANCOUVER",
+      "hotelId": "SGYVRSHV",
+      "geoCode": {
+        "latitude": 49.28618,
+        "longitude": -123.12376
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 2.9,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T09:51:37"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700044733,
+      "name": "BLUE HORIZON HOTEL",
+      "hotelId": "YXYVR110",
+      "geoCode": {
+        "latitude": 49.28651,
+        "longitude": -123.12719
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.01,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:07:51"
+    },
+    {
+      "chainCode": "FA",
+      "iataCode": "YVR",
+      "dupeId": 700127375,
+      "name": "FAIRMONT PACIFIC RIM",
+      "hotelId": "FAYVRVPR",
+      "geoCode": {
+        "latitude": 49.28793,
+        "longitude": -123.11464
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.01,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:14:06"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700090003,
+      "name": "LODEN HOTEL",
+      "hotelId": "YXYVRLOD",
+      "geoCode": {
+        "latitude": 49.28749,
+        "longitude": -123.12346
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.04,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:07:20"
+    },
+    {
+      "chainCode": "MC",
+      "iataCode": "YVR",
+      "dupeId": 700029483,
+      "name": "VANCOUVER MARRIOTT PINNACLE",
+      "hotelId": "MCYVRDTM",
+      "geoCode": {
+        "latitude": 49.2883,
+        "longitude": -123.1212
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.09,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:48"
+    },
+    {
+      "chainCode": "LE",
+      "iataCode": "YVR",
+      "dupeId": 700040037,
+      "name": "THE LISTEL HOTEL",
+      "hotelId": "LEYVRLVH",
+      "geoCode": {
+        "latitude": 49.28707,
+        "longitude": -123.12925
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.12,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:32"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700120231,
+      "name": "VANCOUVER EXTENDED STAY",
+      "hotelId": "YXYVR002",
+      "geoCode": {
+        "latitude": 49.28806,
+        "longitude": -123.12661
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.16,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:02"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700018237,
+      "name": "BARCLAY HOTEL",
+      "hotelId": "YXYVR011",
+      "geoCode": {
+        "latitude": 49.2874,
+        "longitude": -123.12974
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.16,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:47"
+    },
+    {
+      "chainCode": "YX",
+      "iataCode": "YVR",
+      "dupeId": 700031814,
+      "name": "TROPICANA SUITES ON ROBSON",
+      "hotelId": "YXYVR529",
+      "geoCode": {
+        "latitude": 49.28771,
+        "longitude": -123.12907
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.18,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:47"
+    },
+    {
+      "chainCode": "GZ",
+      "iataCode": "YVR",
+      "dupeId": 700007113,
+      "name": "THE EMPIRE LANDMARK HOTEL",
+      "hotelId": "GZYVRGPA",
+      "geoCode": {
+        "latitude": 49.28807,
+        "longitude": -123.13081
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.26,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:25:55"
+    },
+    {
+      "chainCode": "BW",
+      "iataCode": "YVR",
+      "dupeId": 700029482,
+      "name": "BEST WESTERN PLUS SANDS",
+      "hotelId": "BWYVR025",
+      "geoCode": {
+        "latitude": 49.28682,
+        "longitude": -123.14093
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.49,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:46"
+    },
+    {
+      "chainCode": "WX",
+      "iataCode": "YVR",
+      "dupeId": 700006097,
+      "name": "COAST PLAZA HOTEL AND SUITES",
+      "hotelId": "WXYVRPLA",
+      "geoCode": {
+        "latitude": 49.2882,
+        "longitude": -123.13908
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.54,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:49"
+    },
+    {
+      "chainCode": "WI",
+      "iataCode": "YVR",
+      "dupeId": 700014245,
+      "name": "WESTIN BAYSHORE VANCOUVER",
+      "hotelId": "WIYVRBAY",
+      "geoCode": {
+        "latitude": 49.29147,
+        "longitude": -123.12913
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.57,
+        "unit": "KM"
+      },
+      "lastUpdate": "2024-04-22T06:12:53"
+    },
+    {
+      "chainCode": "WV",
+      "iataCode": "YVR",
+      "dupeId": 700090004,
+      "name": "THE SYLVIA HOTEL",
+      "hotelId": "WVYVR004",
+      "geoCode": {
+        "latitude": 49.28864,
+        "longitude": -123.14242
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 3.71,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:46"
+    },
+    {
+      "chainCode": "DI",
+      "iataCode": "YVR",
+      "dupeId": 700040664,
+      "name": "DAYS INN VANCOUVER METRO",
+      "hotelId": "DIYVR051",
+      "geoCode": {
+        "latitude": 49.2451,
+        "longitude": -123.0644
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 4,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:05:44"
+    },
+    {
+      "chainCode": "WV",
+      "iataCode": "YVR",
+      "dupeId": 700042639,
+      "name": "ROSELLEN SUITES AT STANLEY PARK",
+      "hotelId": "WVYVR050",
+      "geoCode": {
+        "latitude": 49.29231,
+        "longitude": -123.14103
+      },
+      "address": {
+        "countryCode": "CA"
+      },
+      "distance": {
+        "value": 4.01,
+        "unit": "KM"
+      },
+      "lastUpdate": "2023-06-15T10:06:49"
+    }
+  ]
+}

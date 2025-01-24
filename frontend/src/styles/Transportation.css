@@ -1,0 +1,88 @@
+/* Transportation Container */
+.transportation-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: hwb(0 100% 0%); /* Slightly blue background */
+  text-align: center;
+  position: relative; /* Container for absolute positioning of images */
+  z-index: 1; /* Ensure content stays above the images */
+}
+
+/* Add static image to the left */
+.left-animated-image {
+  position: fixed;
+  top: 50%;
+  left: -150px; /* Adjusted position closer to the left center */
+  transform: translateY(-50%); /* Center vertically */
+  width: 700px; /* Increased size */
+  height: auto;
+  z-index: 0; /* Ensure image stays behind the content */
+  pointer-events: none; /* Allow clicks through the image */
+}
+
+/* Add static image to the right */
+.right-animated-image {
+  position: fixed;
+  top: 50%;
+  right: -150px; /* Adjusted position closer to the right center */
+  transform: translateY(-50%); /* Center vertically */
+  width: 700px; /* Increased size */
+  height: auto;
+  z-index: 0; /* Ensure image stays behind the content */
+  pointer-events: none; /* Allow clicks through the image */
+}
+
+/* Transportation Form */
+.transportation-form label {
+  display: block;
+  margin: 1rem 0 0.5rem;
+}
+
+.transportation-form input {
+  width: calc(100% - 20px);
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Car Quotes Styles */
+.car-quotes-placeholder {
+  margin-top: 2rem;
+}
+
+.car-results {
+  text-align: left;
+}
+
+.car-item {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.car-details {
+  display: flex;
+  align-items: center;
+}
+
+.car-provider-logo {
+  width: 60px;
+  height: 60px;
+  margin-right: 1rem;
+}
+
+.price {
+  color: green;
+}
+
+.book-now-button {
+  display: inline-block;
+  background-color: #28a745;
+  color: #ffffff;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  text-decoration: none;
+  border-radius: 5px;
+}

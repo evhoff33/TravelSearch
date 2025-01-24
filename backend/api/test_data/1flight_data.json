@@ -1,0 +1,1615 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1731633192387,
+  "data": {
+    "session": {
+      "searchHash": "c1986fb3235f931931168460a74e6f13",
+      "pageLoadUid": "9b245df0-12c0-412e-b31d-76a139bfeab3",
+      "searchId": "5b4f3814-1811-4024-ae6e-67a11dc13f9d.43",
+      "filterSettings": {
+        "tt": "",
+        "aa": "",
+        "a": "",
+        "d": "",
+        "ns": "1",
+        "cos": "0",
+        "fq": "",
+        "al": "",
+        "ft": "",
+        "sid": "",
+        "oc": "",
+        "plp": "",
+        "mc": "",
+        "pRange": "-1,-1",
+        "da": "",
+        "ca": ""
+      }
+    },
+    "complete": false,
+    "numOfFilters": 11,
+    "totalNumResults": 31,
+    "flights": [
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "LNK",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T18:25:00-06:00",
+                "arrivalDateTime": "2024-11-19T20:22:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Canadair (Bombardier) Regional Jet",
+                "amenities": [],
+                "flightNumber": 5628,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "operationalDisclosure": "SKYWEST DBA UNITED EXPRESS",
+                "distanceInKM": 749.21454,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|3|20",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 538.96,
+            "totalPricePerPassenger": 269.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|20&area=FLTCenterColumn|0|1|ItinList|3|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=269.48"
+          }
+        ],
+        "itineraryTag": {
+          "tag": "Best Value",
+          "type": "BEST_VALUE"
+        }
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "LNK",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T15:15:00-06:00",
+                "arrivalDateTime": "2024-11-19T17:10:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Embraer 175 (Enhanced Winglets)",
+                "amenities": [],
+                "flightNumber": 5914,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "operationalDisclosure": "SKYWEST DBA UNITED EXPRESS",
+                "distanceInKM": 749.21454,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|3|9",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 598.96,
+            "totalPricePerPassenger": 299.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|9&area=FLTCenterColumn|0|1|ItinList|4|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=299.48"
+          },
+          {
+            "purchaseLinkId": "Kayak|3|10",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 708.96,
+            "totalPricePerPassenger": 354.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business/First",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|10&area=FLTCenterColumn|0|1|ItinList|4|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=354.48"
+          },
+          {
+            "purchaseLinkId": "Kayak|3|11",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 720.96,
+            "totalPricePerPassenger": 360.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy Plus",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": -1,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|11&area=FLTCenterColumn|0|1|ItinList|4|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=360.48"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "LNK",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T11:15:00-06:00",
+                "arrivalDateTime": "2024-11-19T13:11:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Canadair (Bombardier) Regional Jet",
+                "amenities": [],
+                "flightNumber": 5912,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "operationalDisclosure": "SKYWEST DBA UNITED EXPRESS",
+                "distanceInKM": 749.21454,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|3|7",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 598.96,
+            "totalPricePerPassenger": 299.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|7&area=FLTCenterColumn|0|1|ItinList|2|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=299.48"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "OMA",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T11:20:00-06:00",
+                "arrivalDateTime": "2024-11-19T12:58:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Airbus A319",
+                "amenities": [],
+                "flightNumber": 1933,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 668.41583,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|3",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 662.94,
+            "totalPricePerPassenger": 331.47,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|3&area=FLTCenterColumn|0|1|ItinList|5|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=331.47"
+          },
+          {
+            "purchaseLinkId": "Kayak|3|1",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 792.96,
+            "totalPricePerPassenger": 396.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business/First",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|1&area=FLTCenterColumn|0|1|ItinList|5|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=396.48"
+          }
+        ],
+        "itineraryTag": {
+          "tag": "Shortest",
+          "type": "SHORTEST"
+        }
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "OMA",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T15:32:00-06:00",
+                "arrivalDateTime": "2024-11-19T17:10:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Airbus A319",
+                "amenities": [],
+                "flightNumber": 739,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 668.41583,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|6",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 662.94,
+            "totalPricePerPassenger": 331.47,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|6&area=FLTCenterColumn|0|1|ItinList|6|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=331.47"
+          },
+          {
+            "purchaseLinkId": "Kayak|3|2",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 792.96,
+            "totalPricePerPassenger": 396.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business/First",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|2&area=FLTCenterColumn|0|1|ItinList|6|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=396.48"
+          }
+        ],
+        "itineraryTag": {
+          "tag": "Shortest",
+          "type": "SHORTEST"
+        }
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "OMA",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T18:35:00-06:00",
+                "arrivalDateTime": "2024-11-19T20:14:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Boeing 737-700",
+                "amenities": [],
+                "flightNumber": 1067,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 668.41583,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|7",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 662.94,
+            "totalPricePerPassenger": 331.47,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|7&area=FLTCenterColumn|0|1|ItinList|7|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=331.47"
+          },
+          {
+            "purchaseLinkId": "Kayak|3|12",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 792.96,
+            "totalPricePerPassenger": 396.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business/First",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|12&area=FLTCenterColumn|0|1|ItinList|7|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=396.48"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "OMA",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T08:00:00-06:00",
+                "arrivalDateTime": "2024-11-19T09:43:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Boeing 737-900",
+                "amenities": [],
+                "flightNumber": 2668,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 668.41583,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|16",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 662.94,
+            "totalPricePerPassenger": 331.47,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|16&area=FLTCenterColumn|0|1|ItinList|9|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=331.47"
+          },
+          {
+            "purchaseLinkId": "Kayak|3|17",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 792.96,
+            "totalPricePerPassenger": 396.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business/First",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|17&area=FLTCenterColumn|0|1|ItinList|9|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=396.48"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "OMA",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T12:00:00-06:00",
+                "arrivalDateTime": "2024-11-19T13:45:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "AA",
+                "operatingCarrierCode": "AA",
+                "equipmentId": "Canadair (Bombardier) Regional Jet",
+                "amenities": [],
+                "flightNumber": 6038,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 668.41583,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729020,
+                  "code": "AA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AmericanAirlines.png",
+                  "displayName": "American"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729020,
+                  "code": "AA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AmericanAirlines.png",
+                  "displayName": "American"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|4",
+            "providerId": "American Airlines",
+            "partnerSuppliedProvider": {
+              "id": "AA",
+              "displayName": "American Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AA.png?crop=false&width=166&height=62&fallback=default2.png&_v=8825776e1a4873b3aa558bfa4d430fa3"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 662.94,
+            "totalPricePerPassenger": 331.47,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Main Cabin",
+              "carrierCode": "AA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|4&area=FLTCenterColumn|0|1|ItinList|10|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=331.47"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|5",
+            "providerId": "American Airlines",
+            "partnerSuppliedProvider": {
+              "id": "AA",
+              "displayName": "American Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AA.png?crop=false&width=166&height=62&fallback=default2.png&_v=8825776e1a4873b3aa558bfa4d430fa3"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 776.96,
+            "totalPricePerPassenger": 388.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Main Plus",
+              "carrierCode": "AA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|5&area=FLTCenterColumn|0|1|ItinList|10|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=388.48"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "OMA",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T17:35:00-06:00",
+                "arrivalDateTime": "2024-11-19T19:20:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "AA",
+                "operatingCarrierCode": "AA",
+                "equipmentId": "Canadair (Bombardier) Regional Jet",
+                "amenities": [],
+                "flightNumber": 6041,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 668.41583,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729020,
+                  "code": "AA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AmericanAirlines.png",
+                  "displayName": "American"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729020,
+                  "code": "AA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AmericanAirlines.png",
+                  "displayName": "American"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|14",
+            "providerId": "American Airlines",
+            "partnerSuppliedProvider": {
+              "id": "AA",
+              "displayName": "American Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AA.png?crop=false&width=166&height=62&fallback=default2.png&_v=8825776e1a4873b3aa558bfa4d430fa3"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 662.94,
+            "totalPricePerPassenger": 331.47,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Main Cabin",
+              "carrierCode": "AA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|14&area=FLTCenterColumn|0|1|ItinList|11|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=331.47"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|15",
+            "providerId": "American Airlines",
+            "partnerSuppliedProvider": {
+              "id": "AA",
+              "displayName": "American Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AA.png?crop=false&width=166&height=62&fallback=default2.png&_v=8825776e1a4873b3aa558bfa4d430fa3"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 776.96,
+            "totalPricePerPassenger": 388.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Main Plus",
+              "carrierCode": "AA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|15&area=FLTCenterColumn|0|1|ItinList|11|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=388.48"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "OMA",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T05:40:00-06:00",
+                "arrivalDateTime": "2024-11-19T07:29:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "AA",
+                "operatingCarrierCode": "AA",
+                "equipmentId": "Embraer 170",
+                "amenities": [],
+                "flightNumber": 3364,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 668.41583,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729020,
+                  "code": "AA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AmericanAirlines.png",
+                  "displayName": "American"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729020,
+                  "code": "AA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/AmericanAirlines.png",
+                  "displayName": "American"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|2|27",
+            "providerId": "American Airlines",
+            "partnerSuppliedProvider": {
+              "id": "AA",
+              "displayName": "American Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AA.png?crop=false&width=166&height=62&fallback=default2.png&_v=8825776e1a4873b3aa558bfa4d430fa3"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 662.94,
+            "totalPricePerPassenger": 331.47,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Main Cabin",
+              "carrierCode": "AA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|27&area=FLTCenterColumn|0|1|ItinList|12|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=331.47"
+          },
+          {
+            "purchaseLinkId": "Kayak|2|28",
+            "providerId": "American Airlines",
+            "partnerSuppliedProvider": {
+              "id": "AA",
+              "displayName": "American Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/AA.png?crop=false&width=166&height=62&fallback=default2.png&_v=8825776e1a4873b3aa558bfa4d430fa3"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 776.96,
+            "totalPricePerPassenger": 388.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Main Plus",
+              "carrierCode": "AA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 1,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|2|28&area=FLTCenterColumn|0|1|ItinList|12|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=388.48"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "LNK",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "ORD",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-11-19T07:45:00-06:00",
+                "arrivalDateTime": "2024-11-19T09:53:00-06:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "UA",
+                "operatingCarrierCode": "UA",
+                "equipmentId": "Embraer 175 (Enhanced Winglets)",
+                "amenities": [],
+                "flightNumber": 5910,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "operationalDisclosure": "SKYWEST DBA UNITED EXPRESS",
+                "distanceInKM": 749.21454,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729177,
+                  "code": "UA",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/UnitedAirlines.png",
+                  "displayName": "United"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Kayak|3|14",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1116.96,
+            "totalPricePerPassenger": 558.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 0,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|14&area=FLTCenterColumn|0|1|ItinList|13|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=558.48"
+          },
+          {
+            "purchaseLinkId": "Kayak|3|15",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1216.96,
+            "totalPricePerPassenger": 608.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Business/First",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": 2,
+                "firstCheckedBagFee": 0,
+                "secondCheckedBagFee": 0,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|15&area=FLTCenterColumn|0|1|ItinList|13|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=608.48"
+          },
+          {
+            "purchaseLinkId": "Kayak|3|16",
+            "providerId": "United Airlines",
+            "partnerSuppliedProvider": {
+              "id": "UA",
+              "displayName": "United Airlines",
+              "logoUrl": "https://content.r9cdn.net/rimg/provider-logos/airlines/h/UA.png?crop=false&width=166&height=62&fallback=default1.png&_v=c69223fb5bd4cf3cc5d525e1fd01c6bf"
+            },
+            "commerceName": "KayakFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 1670.96,
+            "totalPricePerPassenger": 835.48,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "fareBranding": {
+              "brandId": "Economy Plus",
+              "carrierCode": "UA"
+            },
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [
+              {
+                "carryonAllowed": true,
+                "carryonFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "freeCheckedBagAllowance": -1,
+                "firstCheckedBagFee": -1,
+                "secondCheckedBagFee": -1,
+                "seatSelectionAllowed": true,
+                "seatSelectionFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "ticketChangeAllowed": true,
+                "ticketChangeFeeObj": {
+                  "feeType": "KNOWN",
+                  "feeValue": 0
+                },
+                "upgradeAvailable": true,
+                "segmentIndices": [0]
+              }
+            ],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=c1986fb3235f931931168460a74e6f13&provider=Kayak|3|16&area=FLTCenterColumn|0|1|ItinList|13|Meta_BrandedFarePrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=835.48"
+          }
+        ]
+      }
+    ]
+  }
+}
